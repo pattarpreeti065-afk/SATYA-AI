@@ -1,0 +1,1778 @@
+{
+  "doc_id": "consumer_protection_ecommerce_rules_2020",
+  "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+  "source_path": "documents\\consumer_law\\Consumer_Protection_ECommerce_Rules_2020.pdf",
+  "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+  "doc_type": "rules",
+  "citation": "G.S.R. 462(E)",
+  "file_size_bytes": 2758391,
+  "file_hash": "54fed9f2b119f487c66af671f338e7962f9cf22b55e1e8ba3456219e3394872a",
+  "content_hash": "3a973312ff33bbdcd72102d837c89fc6f534df73900b835b7979990d2d56b26e",
+  "status": "success",
+  "extraction_method": "ocr",
+  "total_pages": 8,
+  "scanned_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "ocr_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "failed_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.3"
+  },
+  "heading_counts": {
+    "RULES": 1,
+    "RULE": 8,
+    "SUB-RULE": 31
+  },
+  "detected_headings": [
+    {
+      "heading_type": "RULES",
+      "identifier": "G.S.R. 462(E)",
+      "title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "raw_text": "Consumer Protection (E-Commerce) Rules, 2020",
+      "page_number": 1
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "1",
+      "title": "Short title and commencement",
+      "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) They shall come into force on the date of their publication in the Official",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "2",
+      "title": "Scope and Applicability",
+      "raw_text": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) Notwithstanding anything contained in sub-rule (1), these rules shall apply",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "3",
+      "title": "Definitions",
+      "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) The words and expressions used herein and not defined, but defined in the",
+      "page_number": 3
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "4",
+      "title": "Duties of e-commerce entities",
+      "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+      "page_number": 3
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+      "page_number": 3
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) Every e-commerce entity shall provide the following information in a clear",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(3)",
+      "title": null,
+      "raw_text": "(3) No e-commerce entity shall adopt any unfair trade practice, whether in the",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(4)",
+      "title": null,
+      "raw_text": "(4) Every e-commerce entity shall establish an adequate grievance redressal",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(5)",
+      "title": null,
+      "raw_text": "(5) Every e-commerce entity shall ensure that the grievance officer referred to",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(6)",
+      "title": null,
+      "raw_text": "(6) Where an e-commerce entity offers imported goods or services for sale, it",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(7)",
+      "title": null,
+      "raw_text": "(7) Every e-commerce entity shall endeavour on a best effort basis to become",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(8)",
+      "title": null,
+      "raw_text": "(8) No e-commerce entity shall impose cancellation charges on consumers",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(9)",
+      "title": null,
+      "raw_text": "(9) Every e-commerce entity shall only record the consent of a consumer for",
+      "page_number": 4
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(11)",
+      "title": null,
+      "raw_text": "(11) No e-commerce entity shall—",
+      "page_number": 4
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "5",
+      "title": "Liabilities of marketplace e-commerce entities",
+      "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+      "page_number": 5
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+      "page_number": 5
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) Every marketplace e-commerce entity shall require sellers through an",
+      "page_number": 5
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(3)",
+      "title": null,
+      "raw_text": "(3) Every marketplace e-commerce entity shall provide the following",
+      "page_number": 5
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(4)",
+      "title": null,
+      "raw_text": "(4) Every marketplace e-commerce entity shall include in its terms and",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(5)",
+      "title": null,
+      "raw_text": "(5) Every marketplace e-commerce entity shall take reasonable efforts to",
+      "page_number": 6
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "6",
+      "title": "Duties of sellers on marketplace",
+      "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) No such seller shall falsely represent itself as a consumer and post reviews",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(3)",
+      "title": null,
+      "raw_text": "(3) No seller offering goods or services through a marketplace e-commerce",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(4)",
+      "title": null,
+      "raw_text": "(4) Any seller offering goods or services through a marketplace e-commerce",
+      "page_number": 6
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(5)",
+      "title": null,
+      "raw_text": "(5) Any seller offering goods or services through a marketplace e-commerce",
+      "page_number": 7
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "7",
+      "title": "Duties and liabilities of inventory e-commerce entities",
+      "raw_text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every",
+      "page_number": 7
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every",
+      "page_number": 7
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) No inventory e-commerce entity shall falsely represent itself as a consumer",
+      "page_number": 8
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(3)",
+      "title": null,
+      "raw_text": "(3) Every inventory e-commerce entity shall ensure that the advertisements for",
+      "page_number": 8
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(4)",
+      "title": null,
+      "raw_text": "(4) No inventory e-commerce entity shall refuse to take back goods, or",
+      "page_number": 8
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(5)",
+      "title": null,
+      "raw_text": "(5) Any inventory e-commerce entity which explicitly or implicitly vouches",
+      "page_number": 8
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "8",
+      "title": "Contravention of rules",
+      "raw_text": "8. Contravention of rules.—The provisions of the Consumer Protection Act,",
+      "page_number": 8
+    }
+  ],
+  "total_chunks": 20,
+  "warnings": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 492,
+      "margin_notes": [],
+      "cleaned_text": "The\nConsurner Protection (E-Commerce)\nRules, 2020\nCONTENTS\nRules Pages\n1. Short title and commencement ........... ..... 80\n2. Scope and Applicability ... 80\n3. Definitions ...................... 80\n4. Duties of e-commerce entities .................... 81\n5. Liabilities of marketplace e-commerce entities 83\n6. Duties of sellers on marketplace ...................... 84\n7. Duties and liabilities of inventory e-commerce entities ................ 85\n8. Contravention of rules ........ 86\n[791",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2334,
+      "margin_notes": [],
+      "cleaned_text": "The\nConsurner Protection (E-Conunerce)\nRules, 20201\nIn exercise of the powers conferred by sub-clause (zg) of sub-section (1) of\nSection 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central\nGovernment hereby makes the following rules, namely—\n1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (E-Commerce) Rules, 2020.\n(2) They shall come into force on the date of their publication in the Official\nGazette.\n2. Scope and Applicability .—(1) Save as otherwise expressly provided by the\nCentral Government by notification, these rules shall apply to:\n(a) all goods and services bought or sold over digital or electronic network\nincluding digital products;\n(b) all models of e-commerce, including marketplace and inventory models\nof e-commerce;\n(c) all e-commerce retail, including multi-channel single brand retailers and\nsingle brand retailers in single or multiple formats; and\n(d) all forms of unfair trade practices across all models of e-commerce:\nProvided that these rules shall not apply to any activity of a\nnatural person carried out in a personal capacity not being part of\nany professional or commercial activity undertaken on a regular or\nsystematic basis.\n(2) Notwithstanding anything contained in sub-rule (1), these rules shall apply\nto a e-commerce entity which is not established in India, but systematically offers\ngoods or services to consumers in India.\n3. Definitions.—(l) In these rules unless the context otherwise requires,—\n(a) \"Act\" means the Consumer Protection Act, 2019 (35 of 2019);\n(b) \"e-commerce entity\" means any person who owns, operates or manages\ndigital or electronic facility or platform for electronic commerce, but\ndoes not include a seller offering his goods or services for sale on a\nmarketplace e-commerce entity;\n(c) \"grievance\" includes any complaints to an e-commerce entity regarding\nviolations of the provisions of the Act and the rules made thereunder;\n(d) \"GSTIN\" means the Goods and Services Tax Identification Number as\nunder the Central Goods and Services Tax Act, 2017 (12 of 2017);\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 462(E), dated July 23, 2020 and published in the Gazette of India, Extra., Part II, Section 3(i),\ndated 23rd July, 2020, pp. 7-11, No. 358",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2946,
+      "margin_notes": [],
+      "cleaned_text": "(e) \"information\" shall have the same meaning as to it clause (v) of\nsub-section (1) of Section 2 of the Information Technology Act, 2000\n(21 of 2000);\n(j) \"inventory e-commerce entity means an e-commerce entity which owns\nthe inventory of goods or services and sells such goods or services\ndirectly to the consumers and shall include single brand retailers and\nmulti-channel single brand retailers;\n(g) \"marketplace e-commerce entity\" means an e-commerce entity which\nprovides an information technology platform on a digital or electronic\nnetwork to facilitate transactions between buyers and sellers;\n(h) \"PAN\" means Permanent Account Number as under Section 139-A of\nthe Income Tax Act, 1961 (43 of 1961);\n(i) \"platform\" means an online interface in the form of any software\nincluding a website or a part thereof and applications including mobile\napplications;\n(j) \"ranking\" means the relative prominence or relevance given to the\ngoods or services offered through a marketplace e-commerce entity\nas presented, organised or communicated by such entity, irrespective\nof the technological means used for such presentation, organisation or\ncommunication;\n(k) \"seller\" means the product seller as defined in clause (37) of Section 2\nof the Act and shall include any service provider;\n(l) \"user\" means any person who accesses or avails any computer resource\nof an e-commerce entity.\n(2) The words and expressions used herein and not defined, but defined in the\nAct or in the Information Technology Act, 2000 (21 of 2000) or the rules made\nthereunder shall have the same meaning as respectively assigned to them in those\nActs or rules.\n4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a\ncompany incorporated under the Companies Act, 1956 (1 of 1956) or under the\nCompanies Act, 2013 (18 of 2013) or a foreign company covered under clause (42)\nof Section 2 of the Companies Act, 2013 (18 of 2013) or an office, branch or agency\noutside India owned or controlled by a person resident in India as provided in sub-\nclause (iv) of clause (v) of Section 2 of the Foreign Exchange Management Act,\n1999 (42 of 1999), it shall appoint a nodal officer or an alternate senior designated\n2. Subs. by G.S.R. 328(E), dated 17-5-2021 (w.e.f. 17-5-2021). Prior to substitution it read as:\n\"(1) An e-commerce entity shall:\n(a) be a company incorporated under the Companies Act, 1956 (1 of 1956) or the Companies\nAct, 2013 (18 of 2013) or a foreign company covered under clause (42) of Section 2 of the Companies\nAct, 2013 (18 of 2013) or an office, branch or agency outside India owned or controlled by a person\nresident in India as provided in sub-clause (iii) of clause (v) of Section 2 of the Foreign Exchange\nManagement Act, 1999 (42 of 1999); and\n(a) appoint a nodal person of contact or an alternate senior designated functionary who is resident\nin India, to ensure compliance with the provisions of the Act or the rules made thereunder.\"",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 4,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2905,
+      "margin_notes": [],
+      "cleaned_text": "82 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nfunctionary who is resident in India, to ensure compliance with the provisions of\nthe Act or the rules made thereunder.]\n(2) Every e-commerce entity shall provide the following information in a clear\nand accessible manner on its platform, displayed prominently to its users, namely—\n(a) legal name of the e-commerce entity;\n(b) principal geographic address of its headquarters and all branches;\n(c) name and details of its website; and\n(d) contact details like e-mail address, fax, landline and mobile numbers of\ncustomer care as well as of grievance officer.\n(3) No e-commerce entity shall adopt any unfair trade practice, whether in the\ncourse of business on its platform or otherwise.\n(4) Every e-commerce entity shall establish an adequate grievance redressal\nmechanism having regard to the number of grievances ordinarily received by such\nentity from India, and shall appoint a grievance officer for consumer grievance\nredressal, and shall display the name, contact details, and designation of such\nofficer on its platform.\n(5) Every e-commerce entity shall ensure that the grievance officer referred to\nin sub-rule (4) acknowledges the receipt of any consumer complaint within forty-\neight hours and redresses the complaint within one month from the date of receipt\nof the complaint.\n(6) Where an e-commerce entity offers imported goods or services for sale, it\nshall mention the name and details of any importer from whom it has purchased\nsuch goods or services, or who may be a seller on its platform.\n(7) Every e-commerce entity shall endeavour on a best effort basis to become\na partner in the convergence process of the National Consumer Helpline of the\nCentral Government.\n(8) No e-commerce entity shall impose cancellation charges on consumers\ncancelling after confirming purchase unless similar charges are also borne by the\ne- commerce entity, if they cancel the purchase order unilaterally for any reason.\n(9) Every e-commerce entity shall only record the consent of a consumer for\nthe purchase of any good or service offered on its platform where such consent is\nexpressed through an explicit and affirmative action, and no such entity shall record\nsuch consent automatically, including in the form of pre-ticked checkboxes.\n(IO) Every e-commerce entity shall effect all payments towards accepted\nrefund requests of the consumers as prescribed by the Reserve Bank of India or\nany other competent authority under any law for the time being in force, within a\nreasonable period of time, or as prescribed under applicable laws.\n(11) No e-commerce entity shall—\n(a) manipulate the price of the goods or services offered on its platform\nin such a manner as to gain unreasonable profit by imposing on\nconsumers any unjustified price having regard to the prevailing market\nconditions, the essential nature of the good or service, any extraordinary",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 5,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2768,
+      "margin_notes": [],
+      "cleaned_text": "circumstances under which the good or service is offered, and any\nother relevant consideration in determining whether the price charged is\njustified;\n(b) discriminate between consumers of the same class or make any arbitrary\nclassification of consumers affecting their rights under the Act.\n5. Liabilities of marketplace e-commerce entities.—(l) A marketplace\ne-commerce entity which seeks to avail the exemption from liability under\nsub-section (l) of Section 79 of the Information Technology Act, 2000 (21 of 2000)\nshall comply with sub-sections (2) and (3) of that section, including the provisions\nof the Information Technology (Intermediary Guidelines) Rules, 2011.\n(2) Every marketplace e-commerce entity shall require sellers through an\nundertaking to ensure that descriptions, images, and other content pertaining to\ngoods or services on their platform is accurate and corresponds directly with the\nappearance, nature, quality, purpose and other general features of such good or\nservice.\n(3) Every marketplace e-commerce entity shall provide the following\ninformation in a clear and accessible manner, displayed prominently to its users at\nthe appropriate place on its platform:\n(a) details about the sellers offering goods and services, including the name\nof their business, whether registered or not, their geographic address,\ncustomer care number, any rating or other aggregated feedback about\nsuch seller, and any other information necessary for enabling consumers\nto make informed decisions at the prepurchase stage:\nProvided that a marketplace e-commerce entity shall, on a request\nin writing made by a consumer after the purchase of any goods or\nservices on its platform by such consumer, provide him with information\nregarding the seller from which such consumer has made such purchase, L'\nincluding the principal geographic address of its headquarters and all\nbranches, name and details of its website, its email address and any other\ninformation necessary for communication with the seller for effective\ndispute resolution;\n(b) a ticket number for each complaint lodged through which the consumer\ncan track the status of the complaint;\n(c) information relating to return, refund, exchange, warranty and guarantee,\ndelivery and shipment, modes of payment, and grievance redressal\nmechanism, and any other similar information which may be required\nby consumers to make informed decisions;\n(d) information on available payment methods, the security of those\npayment methods, any fees or charges payable by users, the procedure\nto cancel regular payments under those methods, charge-back options,\nif any, and the contact information of the relevant payment service\nprovider;\n(e) all information provided to it by sellers under sub-rule (5) of Rule 6; and",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 6,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2750,
+      "margin_notes": [],
+      "cleaned_text": "84 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\n(f) an explanation of the main parameters which, individually or\ncollectively, are most significant in determining the ranking of goods\nor sellers on its platform and the relative importance of those main\nparameters through an easily and publicly available description drafted\nin plain and intelligible language.\n(4) Every marketplace e-commerce entity shall include in its terms and\nconditions generally governing its relationship with sellers on its platform, a\ndescription of any differentiated treatment which it gives or might give between\ngoods or services or sellers of the same category.\n(5) Every marketplace e-commerce entity shall take reasonable efforts to\nmaintain a record of relevant information allowing for the identification of all\nsellers who have repeatedly offered goods or services that have previously been\nremoved or access to which has previously been disabled under the Copyright Act,\n1957 (14 of 1957), the Trade Marks Act, 1999 (47 of 1999) or the Information\nTechnology Act, 2000 (21 of 2000):\nProvided that no such e-commerce entity shall be required to terminate the\naccess of such seller to its platform pursuant to this sub-rule but may do so on a\nvoluntary basis.\n6. Duties of sellers on marketplace.—(l) No seller offering goods or services\nthrough a marketplace e-commerce entity shall adopt any unfair trade practice\nwhether in the course of the offer on the e-commerce entity' s platform or otherwise.\n(2) No such seller shall falsely represent itself as a consumer and post reviews\nabout goods or services or misrepresent the quality or the features of any goods\nor services.\n(3) No seller offering goods or services through a marketplace e-commerce\nentity shall refuse to take back goods, or withdraw or discontinue services\npurchased or agreed to be purchased, or refuse to refund consideration, if paid,\nif such goods or services are defective, deficient or spurious, or if the goods or\nservices are not of the characteristics or features as advertised or as agreed to, or if\nsuch goods or services are delivered late from the stated delivery schedule:\nProvided that in the case of late delivery, this sub-rule shall not be applied if\nsuch late delivery was due to force majeure.\n(4) Any seller offering goods or services through a marketplace e-commerce\nentity shall:\n(a) have a prior written contract with the respective e-commerce entity in\norder to undertake or solicit such sale or offer;\n(b) appoint a grievance officer for consumer grievance redressal and ensure\nthat the grievance officer acknowledges the receipt of any consumer\ncomplaint within forty-eight hours and redresses the complaint within\none month from the date of receipt of the complaint;",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 7,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2649,
+      "margin_notes": [],
+      "cleaned_text": "(c) ensure that the advertisements for marketing of goods or services are\nconsistent with the actual characteristics, access and usage conditions of\nsuch goods or services.\n(d) provide to the e-commerce entity its legal name, principal geographic\naddress of its headquarters and all branches, the name and details of its\nwebsite, its e-mail address, customer care contact details such as fax,\nlandline, and mobile numbers and where applicable, its GSTIN and PAN\ndetails.\n(5) Any seller offering goods or services through a marketplace e-commerce\nentity shall provide the following information to the e-commerce entity to be\ndisplayed on its platform or website:\n(a) all contractual information required to be disclosed by law;\n(b) total price in single figure of any good or service, along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax, as applicable;\n(c) all mandatory notices and information provided by applicable laws, and\nthe expiry date of the good being offered for sale, where applicable;\n(d) all relevant details about the goods and services offered for sale by the\nseller including country of origin which are necessary for enabling the\nconsumer to make an informed decision at the prepurchase stage;\n(e) the name and contact numbers, and designation of the grievance officer\nfor consumer grievance redressal or for reporting any other matter;\n(f) name and details of importer, and guarantees related to the authenticity\nor genuineness of the imported products;\n(g) accurate information related to terms of exchange, returns, and refund\nincluding information related to costs of return shipping in a clear and\naccessible manner;\n(h) relevant details related to delivery and shipment of such goods or\nservices; and\n(i) any relevant guarantees or warranties applicable to such goods or\nservices.\n7. Duties and liabilities of inventory e-commerce entities.—(l) Every\ninventory e-commerce entity shall provide the following information in a clear and\naccessible manner, displayed prominently to its users:\n(a) accurate information related to return, refund, exchange, warranty\nand guarantee, delivery and shipment, cost of return shipping, mode\nof payments, grievance redressal mechanism, and any other similar\ninformation which may be required by consumers to make informed\ndecisions;\n(b) all mandatory notices and information required by applicable laws;\n(c) information on available payment methods, the security of those\npayment methods, the procedure to cancel regular payments under those",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 8,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2040,
+      "margin_notes": [],
+      "cleaned_text": "86 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nmethods, any fees or charges payable by users, charge back options,\nif any, and the contact information of the relevant payment service\nprovider;\n(d) all contractual information required to be disclosed by law;\n(e) total price in single figure of any good or service along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges, such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax; and\n(f) a ticket number for each complaint lodged, through which the consumer\ncan track the status of their complaint.\n(2) No inventory e-commerce entity shall falsely represent itself as a consumer\nand post reviews about goods and services or misrepresent the quality or the\nfeatures of any goods or services.\n(3) Every inventory e-commerce entity shall ensure that the advertisements for\nmarketing of goods or services are consistent with the actual characteristics, access\nand usage conditions of such goods or services;\n(4) No inventory e-commerce entity shall refuse to take back goods, or\nwithdraw or discontinue services purchased or agreed to be purchased, or refuse\nto refund consideration, if paid, if such goods or services are defective, deficient\nspurious, or if the goods or services are not of the characteristics or features as\nadvertised or as agreed to, or if such goods or services are delivered late from the\nstated delivery schedule:\nProvided that in the case of late delivery, this sub rule shall not apply if such\nlate delivery was due to force majeure.\n(5) Any inventory e-commerce entity which explicitly or implicitly vouches\nfor the authenticity of the goods or services sold by it, or guarantees that such goods\nor services are authentic, shall bear appropriate liability in any action related to the\nauthenticity of such good or service.\n8. Contravention of rules.—The provisions of the Consumer Protection Act,\n2019 (35 of 2019) shall apply for any violation of the provisions of these rules.",
+      "error": null,
+      "warnings": []
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0000",
+      "chunk_index": 0,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "table_of_contents",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": null,
+      "rule_title": null,
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [],
+      "detected_headings": [],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020"
+      ],
+      "source_pages": [
+        1
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "page_spans": [
+        {
+          "page_number": 1,
+          "line_count": 14,
+          "first_line": "The"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 492,
+      "text": "The\nConsurner Protection (E-Commerce)\nRules, 2020\nCONTENTS\nRules Pages\n1. Short title and commencement ........... ..... 80\n2. Scope and Applicability ... 80\n3. Definitions ...................... 80\n4. Duties of e-commerce entities .................... 81\n5. Liabilities of marketplace e-commerce entities 83\n6. Duties of sellers on marketplace ...................... 84\n7. Duties and liabilities of inventory e-commerce entities ................ 85\n8. Contravention of rules ........ 86\n[791",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020]\nThe\nConsurner Protection (E-Commerce)\nRules, 2020\nCONTENTS\nRules Pages\n1. Short title and commencement ........... ..... 80\n2. Scope and Applicability ... 80\n3. Definitions ...................... 80\n4. Duties of e-commerce entities .................... 81\n5. Liabilities of marketplace e-commerce entities 83\n6. Duties of sellers on marketplace ...................... 84\n7. Duties and liabilities of inventory e-commerce entities ................ 85\n8. Contravention of rules ........ 86\n[791"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0001",
+      "chunk_index": 1,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "front_matter",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": null,
+      "rule_title": null,
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [],
+      "detected_headings": [],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 6,
+          "first_line": "The"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 256,
+      "text": "The\nConsurner Protection (E-Conunerce)\nRules, 20201\nIn exercise of the powers conferred by sub-clause (zg) of sub-section (1) of\nSection 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central\nGovernment hereby makes the following rules, namely—",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020]\nThe\nConsurner Protection (E-Conunerce)\nRules, 20201\nIn exercise of the powers conferred by sub-clause (zg) of sub-section (1) of\nSection 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central\nGovernment hereby makes the following rules, namely—"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0002",
+      "chunk_index": 2,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "1",
+      "rule_title": "Short title and commencement",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 1(1)",
+        "Rule 1(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "1",
+          "title": "Short title and commencement",
+          "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) They shall come into force on the date of their publication in the Official",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 1 - Short title and commencement",
+        "SUB-RULE: (1), (2)"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 4,
+          "first_line": "1. Short title and commencement.—(l) These rules may be called the"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 201,
+      "text": "1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (E-Commerce) Rules, 2020.\n(2) They shall come into force on the date of their publication in the Official\nGazette.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 1 - Short title and commencement | SUB-RULE: (1), (2)]\n1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (E-Commerce) Rules, 2020.\n(2) They shall come into force on the date of their publication in the Official\nGazette."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0003",
+      "chunk_index": 3,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "2",
+      "rule_title": "Scope and Applicability",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 2(1)",
+        "Rule 2(1)(a)",
+        "Rule 2(1)(b)",
+        "Rule 2(1)(c)",
+        "Rule 2(1)(d)",
+        "Rule 2(1)(d) [Proviso]",
+        "Rule 2(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "2",
+          "title": "Scope and Applicability",
+          "raw_text": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) Notwithstanding anything contained in sub-rule (1), these rules shall apply",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 2 - Scope and Applicability",
+        "SUB-RULE: (1), (2)"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 16,
+          "first_line": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 963,
+      "text": "2. Scope and Applicability .—(1) Save as otherwise expressly provided by the\nCentral Government by notification, these rules shall apply to:\n(a) all goods and services bought or sold over digital or electronic network\nincluding digital products;\n(b) all models of e-commerce, including marketplace and inventory models\nof e-commerce;\n(c) all e-commerce retail, including multi-channel single brand retailers and\nsingle brand retailers in single or multiple formats; and\n(d) all forms of unfair trade practices across all models of e-commerce:\nProvided that these rules shall not apply to any activity of a\nnatural person carried out in a personal capacity not being part of\nany professional or commercial activity undertaken on a regular or\nsystematic basis.\n(2) Notwithstanding anything contained in sub-rule (1), these rules shall apply\nto a e-commerce entity which is not established in India, but systematically offers\ngoods or services to consumers in India.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 2 - Scope and Applicability | SUB-RULE: (1), (2)]\n2. Scope and Applicability .—(1) Save as otherwise expressly provided by the\nCentral Government by notification, these rules shall apply to:\n(a) all goods and services bought or sold over digital or electronic network\nincluding digital products;\n(b) all models of e-commerce, including marketplace and inventory models\nof e-commerce;\n(c) all e-commerce retail, including multi-channel single brand retailers and\nsingle brand retailers in single or multiple formats; and\n(d) all forms of unfair trade practices across all models of e-commerce:\nProvided that these rules shall not apply to any activity of a\nnatural person carried out in a personal capacity not being part of\nany professional or commercial activity undertaken on a regular or\nsystematic basis.\n(2) Notwithstanding anything contained in sub-rule (1), these rules shall apply\nto a e-commerce entity which is not established in India, but systematically offers\ngoods or services to consumers in India."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0004",
+      "chunk_index": 4,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "3",
+      "rule_title": "Definitions",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)"
+      ],
+      "paragraph_references": [
+        "Rule 3(1)",
+        "Rule 3(1)(a)",
+        "Rule 3(1)(b)",
+        "Rule 3(1)(c)",
+        "Rule 3(1)(d)",
+        "Rule 3(1)(e)",
+        "Rule 3(1)(j)",
+        "Rule 3(1)(g)",
+        "Rule 3(1)(h)",
+        "Rule 3(1)(i)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "3",
+          "title": "Definitions",
+          "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 3 - Definitions",
+        "SUB-RULE: (1)"
+      ],
+      "source_pages": [
+        2,
+        3
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 13,
+          "first_line": "3. Definitions.—(l) In these rules unless the context otherwise requires,—"
+        },
+        {
+          "page_number": 3,
+          "line_count": 15,
+          "first_line": "(e) \"information\" shall have the same meaning as to it clause (v) of"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1775,
+      "text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—\n(a) \"Act\" means the Consumer Protection Act, 2019 (35 of 2019);\n(b) \"e-commerce entity\" means any person who owns, operates or manages\ndigital or electronic facility or platform for electronic commerce, but\ndoes not include a seller offering his goods or services for sale on a\nmarketplace e-commerce entity;\n(c) \"grievance\" includes any complaints to an e-commerce entity regarding\nviolations of the provisions of the Act and the rules made thereunder;\n(d) \"GSTIN\" means the Goods and Services Tax Identification Number as\nunder the Central Goods and Services Tax Act, 2017 (12 of 2017);\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 462(E), dated July 23, 2020 and published in the Gazette of India, Extra., Part II, Section 3(i),\ndated 23rd July, 2020, pp. 7-11, No. 358\n(e) \"information\" shall have the same meaning as to it clause (v) of\nsub-section (1) of Section 2 of the Information Technology Act, 2000\n(21 of 2000);\n(j) \"inventory e-commerce entity means an e-commerce entity which owns\nthe inventory of goods or services and sells such goods or services\ndirectly to the consumers and shall include single brand retailers and\nmulti-channel single brand retailers;\n(g) \"marketplace e-commerce entity\" means an e-commerce entity which\nprovides an information technology platform on a digital or electronic\nnetwork to facilitate transactions between buyers and sellers;\n(h) \"PAN\" means Permanent Account Number as under Section 139-A of\nthe Income Tax Act, 1961 (43 of 1961);\n(i) \"platform\" means an online interface in the form of any software\nincluding a website or a part thereof and applications including mobile\napplications;",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 3 - Definitions | SUB-RULE: (1)]\n3. Definitions.—(l) In these rules unless the context otherwise requires,—\n(a) \"Act\" means the Consumer Protection Act, 2019 (35 of 2019);\n(b) \"e-commerce entity\" means any person who owns, operates or manages\ndigital or electronic facility or platform for electronic commerce, but\ndoes not include a seller offering his goods or services for sale on a\nmarketplace e-commerce entity;\n(c) \"grievance\" includes any complaints to an e-commerce entity regarding\nviolations of the provisions of the Act and the rules made thereunder;\n(d) \"GSTIN\" means the Goods and Services Tax Identification Number as\nunder the Central Goods and Services Tax Act, 2017 (12 of 2017);\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 462(E), dated July 23, 2020 and published in the Gazette of India, Extra., Part II, Section 3(i),\ndated 23rd July, 2020, pp. 7-11, No. 358\n(e) \"information\" shall have the same meaning as to it clause (v) of\nsub-section (1) of Section 2 of the Information Technology Act, 2000\n(21 of 2000);\n(j) \"inventory e-commerce entity means an e-commerce entity which owns\nthe inventory of goods or services and sells such goods or services\ndirectly to the consumers and shall include single brand retailers and\nmulti-channel single brand retailers;\n(g) \"marketplace e-commerce entity\" means an e-commerce entity which\nprovides an information technology platform on a digital or electronic\nnetwork to facilitate transactions between buyers and sellers;\n(h) \"PAN\" means Permanent Account Number as under Section 139-A of\nthe Income Tax Act, 1961 (43 of 1961);\n(i) \"platform\" means an online interface in the form of any software\nincluding a website or a part thereof and applications including mobile\napplications;"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0005",
+      "chunk_index": 5,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "3",
+      "rule_title": "Definitions",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)"
+      ],
+      "paragraph_references": [
+        "Rule 3(1)(j)",
+        "Rule 3(1)(k)",
+        "Rule 3(1)(l)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "3",
+          "title": "Definitions",
+          "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 3 - Definitions",
+        "SUB-RULE: (1)"
+      ],
+      "source_pages": [
+        3
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "page_spans": [
+        {
+          "page_number": 3,
+          "line_count": 9,
+          "first_line": "(j) \"ranking\" means the relative prominence or relevance given to the"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 516,
+      "text": "(j) \"ranking\" means the relative prominence or relevance given to the\ngoods or services offered through a marketplace e-commerce entity\nas presented, organised or communicated by such entity, irrespective\nof the technological means used for such presentation, organisation or\ncommunication;\n(k) \"seller\" means the product seller as defined in clause (37) of Section 2\nof the Act and shall include any service provider;\n(l) \"user\" means any person who accesses or avails any computer resource\nof an e-commerce entity.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 3 - Definitions | SUB-RULE: (1)]\n(j) \"ranking\" means the relative prominence or relevance given to the\ngoods or services offered through a marketplace e-commerce entity\nas presented, organised or communicated by such entity, irrespective\nof the technological means used for such presentation, organisation or\ncommunication;\n(k) \"seller\" means the product seller as defined in clause (37) of Section 2\nof the Act and shall include any service provider;\n(l) \"user\" means any person who accesses or avails any computer resource\nof an e-commerce entity."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0006",
+      "chunk_index": 6,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "3",
+      "rule_title": "Definitions",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 3(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "3",
+          "title": "Definitions",
+          "raw_text": "3. Definitions.—(l) In these rules unless the context otherwise requires,—",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) The words and expressions used herein and not defined, but defined in the",
+          "page_number": 3
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 3 - Definitions",
+        "SUB-RULE: (2)"
+      ],
+      "source_pages": [
+        3
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "page_spans": [
+        {
+          "page_number": 3,
+          "line_count": 4,
+          "first_line": "(2) The words and expressions used herein and not defined, but defined in the"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 251,
+      "text": "(2) The words and expressions used herein and not defined, but defined in the\nAct or in the Information Technology Act, 2000 (21 of 2000) or the rules made\nthereunder shall have the same meaning as respectively assigned to them in those\nActs or rules.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 3 - Definitions | SUB-RULE: (2)]\n(2) The words and expressions used herein and not defined, but defined in the\nAct or in the Information Technology Act, 2000 (21 of 2000) or the rules made\nthereunder shall have the same meaning as respectively assigned to them in those\nActs or rules."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0007",
+      "chunk_index": 7,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "4",
+      "rule_title": "Duties of e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)"
+      ],
+      "paragraph_references": [
+        "Rule 4(1)",
+        "Rule 4(1)(a)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "4",
+          "title": "Duties of e-commerce entities",
+          "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+          "page_number": 3
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+          "page_number": 3
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 4 - Duties of e-commerce entities",
+        "SUB-RULE: (1)"
+      ],
+      "source_pages": [
+        3,
+        4
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "page_spans": [
+        {
+          "page_number": 3,
+          "line_count": 16,
+          "first_line": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a"
+        },
+        {
+          "page_number": 4,
+          "line_count": 3,
+          "first_line": "82 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1482,
+      "text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a\ncompany incorporated under the Companies Act, 1956 (1 of 1956) or under the\nCompanies Act, 2013 (18 of 2013) or a foreign company covered under clause (42)\nof Section 2 of the Companies Act, 2013 (18 of 2013) or an office, branch or agency\noutside India owned or controlled by a person resident in India as provided in sub-\nclause (iv) of clause (v) of Section 2 of the Foreign Exchange Management Act,\n1999 (42 of 1999), it shall appoint a nodal officer or an alternate senior designated\n2. Subs. by G.S.R. 328(E), dated 17-5-2021 (w.e.f. 17-5-2021). Prior to substitution it read as:\n\"(1) An e-commerce entity shall:\n(a) be a company incorporated under the Companies Act, 1956 (1 of 1956) or the Companies\nAct, 2013 (18 of 2013) or a foreign company covered under clause (42) of Section 2 of the Companies\nAct, 2013 (18 of 2013) or an office, branch or agency outside India owned or controlled by a person\nresident in India as provided in sub-clause (iii) of clause (v) of Section 2 of the Foreign Exchange\nManagement Act, 1999 (42 of 1999); and\n(a) appoint a nodal person of contact or an alternate senior designated functionary who is resident\nin India, to ensure compliance with the provisions of the Act or the rules made thereunder.\"\n82 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nfunctionary who is resident in India, to ensure compliance with the provisions of\nthe Act or the rules made thereunder.]",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 4 - Duties of e-commerce entities | SUB-RULE: (1)]\n4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a\ncompany incorporated under the Companies Act, 1956 (1 of 1956) or under the\nCompanies Act, 2013 (18 of 2013) or a foreign company covered under clause (42)\nof Section 2 of the Companies Act, 2013 (18 of 2013) or an office, branch or agency\noutside India owned or controlled by a person resident in India as provided in sub-\nclause (iv) of clause (v) of Section 2 of the Foreign Exchange Management Act,\n1999 (42 of 1999), it shall appoint a nodal officer or an alternate senior designated\n2. Subs. by G.S.R. 328(E), dated 17-5-2021 (w.e.f. 17-5-2021). Prior to substitution it read as:\n\"(1) An e-commerce entity shall:\n(a) be a company incorporated under the Companies Act, 1956 (1 of 1956) or the Companies\nAct, 2013 (18 of 2013) or a foreign company covered under clause (42) of Section 2 of the Companies\nAct, 2013 (18 of 2013) or an office, branch or agency outside India owned or controlled by a person\nresident in India as provided in sub-clause (iii) of clause (v) of Section 2 of the Foreign Exchange\nManagement Act, 1999 (42 of 1999); and\n(a) appoint a nodal person of contact or an alternate senior designated functionary who is resident\nin India, to ensure compliance with the provisions of the Act or the rules made thereunder.\"\n82 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nfunctionary who is resident in India, to ensure compliance with the provisions of\nthe Act or the rules made thereunder.]"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0008",
+      "chunk_index": 8,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "4",
+      "rule_title": "Duties of e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)",
+        "(6)",
+        "(7)"
+      ],
+      "paragraph_references": [
+        "Rule 4(2)",
+        "Rule 4(2)(a)",
+        "Rule 4(2)(b)",
+        "Rule 4(2)(c)",
+        "Rule 4(2)(d)",
+        "Rule 4(3)",
+        "Rule 4(4)",
+        "Rule 4(5)",
+        "Rule 4(6)",
+        "Rule 4(7)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "4",
+          "title": "Duties of e-commerce entities",
+          "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+          "page_number": 3
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) Every e-commerce entity shall provide the following information in a clear",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(3)",
+          "title": null,
+          "raw_text": "(3) No e-commerce entity shall adopt any unfair trade practice, whether in the",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(4)",
+          "title": null,
+          "raw_text": "(4) Every e-commerce entity shall establish an adequate grievance redressal",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(5)",
+          "title": null,
+          "raw_text": "(5) Every e-commerce entity shall ensure that the grievance officer referred to",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(6)",
+          "title": null,
+          "raw_text": "(6) Where an e-commerce entity offers imported goods or services for sale, it",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(7)",
+          "title": null,
+          "raw_text": "(7) Every e-commerce entity shall endeavour on a best effort basis to become",
+          "page_number": 4
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 4 - Duties of e-commerce entities",
+        "SUB-RULE: (2), (3), (4), (5), (6), (7)"
+      ],
+      "source_pages": [
+        4
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "page_spans": [
+        {
+          "page_number": 4,
+          "line_count": 24,
+          "first_line": "(2) Every e-commerce entity shall provide the following information in a clear"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1563,
+      "text": "(2) Every e-commerce entity shall provide the following information in a clear\nand accessible manner on its platform, displayed prominently to its users, namely—\n(a) legal name of the e-commerce entity;\n(b) principal geographic address of its headquarters and all branches;\n(c) name and details of its website; and\n(d) contact details like e-mail address, fax, landline and mobile numbers of\ncustomer care as well as of grievance officer.\n(3) No e-commerce entity shall adopt any unfair trade practice, whether in the\ncourse of business on its platform or otherwise.\n(4) Every e-commerce entity shall establish an adequate grievance redressal\nmechanism having regard to the number of grievances ordinarily received by such\nentity from India, and shall appoint a grievance officer for consumer grievance\nredressal, and shall display the name, contact details, and designation of such\nofficer on its platform.\n(5) Every e-commerce entity shall ensure that the grievance officer referred to\nin sub-rule (4) acknowledges the receipt of any consumer complaint within forty-\neight hours and redresses the complaint within one month from the date of receipt\nof the complaint.\n(6) Where an e-commerce entity offers imported goods or services for sale, it\nshall mention the name and details of any importer from whom it has purchased\nsuch goods or services, or who may be a seller on its platform.\n(7) Every e-commerce entity shall endeavour on a best effort basis to become\na partner in the convergence process of the National Consumer Helpline of the\nCentral Government.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 4 - Duties of e-commerce entities | SUB-RULE: (2), (3), (4), (5), (6), (7)]\n(2) Every e-commerce entity shall provide the following information in a clear\nand accessible manner on its platform, displayed prominently to its users, namely—\n(a) legal name of the e-commerce entity;\n(b) principal geographic address of its headquarters and all branches;\n(c) name and details of its website; and\n(d) contact details like e-mail address, fax, landline and mobile numbers of\ncustomer care as well as of grievance officer.\n(3) No e-commerce entity shall adopt any unfair trade practice, whether in the\ncourse of business on its platform or otherwise.\n(4) Every e-commerce entity shall establish an adequate grievance redressal\nmechanism having regard to the number of grievances ordinarily received by such\nentity from India, and shall appoint a grievance officer for consumer grievance\nredressal, and shall display the name, contact details, and designation of such\nofficer on its platform.\n(5) Every e-commerce entity shall ensure that the grievance officer referred to\nin sub-rule (4) acknowledges the receipt of any consumer complaint within forty-\neight hours and redresses the complaint within one month from the date of receipt\nof the complaint.\n(6) Where an e-commerce entity offers imported goods or services for sale, it\nshall mention the name and details of any importer from whom it has purchased\nsuch goods or services, or who may be a seller on its platform.\n(7) Every e-commerce entity shall endeavour on a best effort basis to become\na partner in the convergence process of the National Consumer Helpline of the\nCentral Government."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0009",
+      "chunk_index": 9,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "4",
+      "rule_title": "Duties of e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(8)",
+        "(9)",
+        "(11)"
+      ],
+      "paragraph_references": [
+        "Rule 4(8)",
+        "Rule 4(9)",
+        "Rule 4(11)",
+        "Rule 4(11)(a)",
+        "Rule 4(11)(b)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "4",
+          "title": "Duties of e-commerce entities",
+          "raw_text": "4. Duties of e-commerce entities. —2[(1) Where an e-commerce entity is a",
+          "page_number": 3
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(8)",
+          "title": null,
+          "raw_text": "(8) No e-commerce entity shall impose cancellation charges on consumers",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(9)",
+          "title": null,
+          "raw_text": "(9) Every e-commerce entity shall only record the consent of a consumer for",
+          "page_number": 4
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(11)",
+          "title": null,
+          "raw_text": "(11) No e-commerce entity shall—",
+          "page_number": 4
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 4 - Duties of e-commerce entities",
+        "SUB-RULE: (8), (9), (11)"
+      ],
+      "source_pages": [
+        4,
+        5
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "page_spans": [
+        {
+          "page_number": 4,
+          "line_count": 16,
+          "first_line": "(8) No e-commerce entity shall impose cancellation charges on consumers"
+        },
+        {
+          "page_number": 5,
+          "line_count": 5,
+          "first_line": "circumstances under which the good or service is offered, and any"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1463,
+      "text": "(8) No e-commerce entity shall impose cancellation charges on consumers\ncancelling after confirming purchase unless similar charges are also borne by the\ne- commerce entity, if they cancel the purchase order unilaterally for any reason.\n(9) Every e-commerce entity shall only record the consent of a consumer for\nthe purchase of any good or service offered on its platform where such consent is\nexpressed through an explicit and affirmative action, and no such entity shall record\nsuch consent automatically, including in the form of pre-ticked checkboxes.\n(IO) Every e-commerce entity shall effect all payments towards accepted\nrefund requests of the consumers as prescribed by the Reserve Bank of India or\nany other competent authority under any law for the time being in force, within a\nreasonable period of time, or as prescribed under applicable laws.\n(11) No e-commerce entity shall—\n(a) manipulate the price of the goods or services offered on its platform\nin such a manner as to gain unreasonable profit by imposing on\nconsumers any unjustified price having regard to the prevailing market\nconditions, the essential nature of the good or service, any extraordinary\ncircumstances under which the good or service is offered, and any\nother relevant consideration in determining whether the price charged is\njustified;\n(b) discriminate between consumers of the same class or make any arbitrary\nclassification of consumers affecting their rights under the Act.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 4 - Duties of e-commerce entities | SUB-RULE: (8), (9), (11)]\n(8) No e-commerce entity shall impose cancellation charges on consumers\ncancelling after confirming purchase unless similar charges are also borne by the\ne- commerce entity, if they cancel the purchase order unilaterally for any reason.\n(9) Every e-commerce entity shall only record the consent of a consumer for\nthe purchase of any good or service offered on its platform where such consent is\nexpressed through an explicit and affirmative action, and no such entity shall record\nsuch consent automatically, including in the form of pre-ticked checkboxes.\n(IO) Every e-commerce entity shall effect all payments towards accepted\nrefund requests of the consumers as prescribed by the Reserve Bank of India or\nany other competent authority under any law for the time being in force, within a\nreasonable period of time, or as prescribed under applicable laws.\n(11) No e-commerce entity shall—\n(a) manipulate the price of the goods or services offered on its platform\nin such a manner as to gain unreasonable profit by imposing on\nconsumers any unjustified price having regard to the prevailing market\nconditions, the essential nature of the good or service, any extraordinary\ncircumstances under which the good or service is offered, and any\nother relevant consideration in determining whether the price charged is\njustified;\n(b) discriminate between consumers of the same class or make any arbitrary\nclassification of consumers affecting their rights under the Act."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0010",
+      "chunk_index": 10,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "5",
+      "rule_title": "Liabilities of marketplace e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 5(1)",
+        "Rule 5(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "5",
+          "title": "Liabilities of marketplace e-commerce entities",
+          "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+          "page_number": 5
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+          "page_number": 5
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) Every marketplace e-commerce entity shall require sellers through an",
+          "page_number": 5
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 5 - Liabilities of marketplace e-commerce entities",
+        "SUB-RULE: (1), (2)"
+      ],
+      "source_pages": [
+        5
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "page_spans": [
+        {
+          "page_number": 5,
+          "line_count": 10,
+          "first_line": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 704,
+      "text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace\ne-commerce entity which seeks to avail the exemption from liability under\nsub-section (l) of Section 79 of the Information Technology Act, 2000 (21 of 2000)\nshall comply with sub-sections (2) and (3) of that section, including the provisions\nof the Information Technology (Intermediary Guidelines) Rules, 2011.\n(2) Every marketplace e-commerce entity shall require sellers through an\nundertaking to ensure that descriptions, images, and other content pertaining to\ngoods or services on their platform is accurate and corresponds directly with the\nappearance, nature, quality, purpose and other general features of such good or\nservice.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 5 - Liabilities of marketplace e-commerce entities | SUB-RULE: (1), (2)]\n5. Liabilities of marketplace e-commerce entities.—(l) A marketplace\ne-commerce entity which seeks to avail the exemption from liability under\nsub-section (l) of Section 79 of the Information Technology Act, 2000 (21 of 2000)\nshall comply with sub-sections (2) and (3) of that section, including the provisions\nof the Information Technology (Intermediary Guidelines) Rules, 2011.\n(2) Every marketplace e-commerce entity shall require sellers through an\nundertaking to ensure that descriptions, images, and other content pertaining to\ngoods or services on their platform is accurate and corresponds directly with the\nappearance, nature, quality, purpose and other general features of such good or\nservice."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0011",
+      "chunk_index": 11,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "5",
+      "rule_title": "Liabilities of marketplace e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(3)"
+      ],
+      "paragraph_references": [
+        "Rule 5(3)",
+        "Rule 5(3)(a)",
+        "Rule 5(3)(a) [Proviso]",
+        "Rule 5(3)(b)",
+        "Rule 5(3)(c)",
+        "Rule 5(3)(d)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "5",
+          "title": "Liabilities of marketplace e-commerce entities",
+          "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+          "page_number": 5
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(3)",
+          "title": null,
+          "raw_text": "(3) Every marketplace e-commerce entity shall provide the following",
+          "page_number": 5
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 5 - Liabilities of marketplace e-commerce entities",
+        "SUB-RULE: (3)"
+      ],
+      "source_pages": [
+        5
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "page_spans": [
+        {
+          "page_number": 5,
+          "line_count": 27,
+          "first_line": "(3) Every marketplace e-commerce entity shall provide the following"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1692,
+      "text": "(3) Every marketplace e-commerce entity shall provide the following\ninformation in a clear and accessible manner, displayed prominently to its users at\nthe appropriate place on its platform:\n(a) details about the sellers offering goods and services, including the name\nof their business, whether registered or not, their geographic address,\ncustomer care number, any rating or other aggregated feedback about\nsuch seller, and any other information necessary for enabling consumers\nto make informed decisions at the prepurchase stage:\nProvided that a marketplace e-commerce entity shall, on a request\nin writing made by a consumer after the purchase of any goods or\nservices on its platform by such consumer, provide him with information\nregarding the seller from which such consumer has made such purchase, L'\nincluding the principal geographic address of its headquarters and all\nbranches, name and details of its website, its email address and any other\ninformation necessary for communication with the seller for effective\ndispute resolution;\n(b) a ticket number for each complaint lodged through which the consumer\ncan track the status of the complaint;\n(c) information relating to return, refund, exchange, warranty and guarantee,\ndelivery and shipment, modes of payment, and grievance redressal\nmechanism, and any other similar information which may be required\nby consumers to make informed decisions;\n(d) information on available payment methods, the security of those\npayment methods, any fees or charges payable by users, the procedure\nto cancel regular payments under those methods, charge-back options,\nif any, and the contact information of the relevant payment service\nprovider;",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 5 - Liabilities of marketplace e-commerce entities | SUB-RULE: (3)]\n(3) Every marketplace e-commerce entity shall provide the following\ninformation in a clear and accessible manner, displayed prominently to its users at\nthe appropriate place on its platform:\n(a) details about the sellers offering goods and services, including the name\nof their business, whether registered or not, their geographic address,\ncustomer care number, any rating or other aggregated feedback about\nsuch seller, and any other information necessary for enabling consumers\nto make informed decisions at the prepurchase stage:\nProvided that a marketplace e-commerce entity shall, on a request\nin writing made by a consumer after the purchase of any goods or\nservices on its platform by such consumer, provide him with information\nregarding the seller from which such consumer has made such purchase, L'\nincluding the principal geographic address of its headquarters and all\nbranches, name and details of its website, its email address and any other\ninformation necessary for communication with the seller for effective\ndispute resolution;\n(b) a ticket number for each complaint lodged through which the consumer\ncan track the status of the complaint;\n(c) information relating to return, refund, exchange, warranty and guarantee,\ndelivery and shipment, modes of payment, and grievance redressal\nmechanism, and any other similar information which may be required\nby consumers to make informed decisions;\n(d) information on available payment methods, the security of those\npayment methods, any fees or charges payable by users, the procedure\nto cancel regular payments under those methods, charge-back options,\nif any, and the contact information of the relevant payment service\nprovider;"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0012",
+      "chunk_index": 12,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "5",
+      "rule_title": "Liabilities of marketplace e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(3)"
+      ],
+      "paragraph_references": [
+        "Rule 5(3)(e)",
+        "Rule 5(3)(f)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "5",
+          "title": "Liabilities of marketplace e-commerce entities",
+          "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+          "page_number": 5
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(3)",
+          "title": null,
+          "raw_text": "(3) Every marketplace e-commerce entity shall provide the following",
+          "page_number": 5
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 5 - Liabilities of marketplace e-commerce entities",
+        "SUB-RULE: (3)"
+      ],
+      "source_pages": [
+        5,
+        6
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "page_spans": [
+        {
+          "page_number": 5,
+          "line_count": 1,
+          "first_line": "(e) all information provided to it by sellers under sub-rule (5) of Rule 6; and"
+        },
+        {
+          "page_number": 6,
+          "line_count": 6,
+          "first_line": "84 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 440,
+      "text": "(e) all information provided to it by sellers under sub-rule (5) of Rule 6; and\n84 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\n(f) an explanation of the main parameters which, individually or\ncollectively, are most significant in determining the ranking of goods\nor sellers on its platform and the relative importance of those main\nparameters through an easily and publicly available description drafted\nin plain and intelligible language.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 5 - Liabilities of marketplace e-commerce entities | SUB-RULE: (3)]\n(e) all information provided to it by sellers under sub-rule (5) of Rule 6; and\n84 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\n(f) an explanation of the main parameters which, individually or\ncollectively, are most significant in determining the ranking of goods\nor sellers on its platform and the relative importance of those main\nparameters through an easily and publicly available description drafted\nin plain and intelligible language."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0013",
+      "chunk_index": 13,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "5",
+      "rule_title": "Liabilities of marketplace e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(4)",
+        "(5)"
+      ],
+      "paragraph_references": [
+        "Rule 5(4)",
+        "Rule 5(5)",
+        "Rule 5(5) [Proviso]"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "5",
+          "title": "Liabilities of marketplace e-commerce entities",
+          "raw_text": "5. Liabilities of marketplace e-commerce entities.—(l) A marketplace",
+          "page_number": 5
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(4)",
+          "title": null,
+          "raw_text": "(4) Every marketplace e-commerce entity shall include in its terms and",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(5)",
+          "title": null,
+          "raw_text": "(5) Every marketplace e-commerce entity shall take reasonable efforts to",
+          "page_number": 6
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 5 - Liabilities of marketplace e-commerce entities",
+        "SUB-RULE: (4), (5)"
+      ],
+      "source_pages": [
+        6
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "page_spans": [
+        {
+          "page_number": 6,
+          "line_count": 13,
+          "first_line": "(4) Every marketplace e-commerce entity shall include in its terms and"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 884,
+      "text": "(4) Every marketplace e-commerce entity shall include in its terms and\nconditions generally governing its relationship with sellers on its platform, a\ndescription of any differentiated treatment which it gives or might give between\ngoods or services or sellers of the same category.\n(5) Every marketplace e-commerce entity shall take reasonable efforts to\nmaintain a record of relevant information allowing for the identification of all\nsellers who have repeatedly offered goods or services that have previously been\nremoved or access to which has previously been disabled under the Copyright Act,\n1957 (14 of 1957), the Trade Marks Act, 1999 (47 of 1999) or the Information\nTechnology Act, 2000 (21 of 2000):\nProvided that no such e-commerce entity shall be required to terminate the\naccess of such seller to its platform pursuant to this sub-rule but may do so on a\nvoluntary basis.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 5 - Liabilities of marketplace e-commerce entities | SUB-RULE: (4), (5)]\n(4) Every marketplace e-commerce entity shall include in its terms and\nconditions generally governing its relationship with sellers on its platform, a\ndescription of any differentiated treatment which it gives or might give between\ngoods or services or sellers of the same category.\n(5) Every marketplace e-commerce entity shall take reasonable efforts to\nmaintain a record of relevant information allowing for the identification of all\nsellers who have repeatedly offered goods or services that have previously been\nremoved or access to which has previously been disabled under the Copyright Act,\n1957 (14 of 1957), the Trade Marks Act, 1999 (47 of 1999) or the Information\nTechnology Act, 2000 (21 of 2000):\nProvided that no such e-commerce entity shall be required to terminate the\naccess of such seller to its platform pursuant to this sub-rule but may do so on a\nvoluntary basis."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0014",
+      "chunk_index": 14,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "6",
+      "rule_title": "Duties of sellers on marketplace",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)",
+        "(3)"
+      ],
+      "paragraph_references": [
+        "Rule 6(1)",
+        "Rule 6(2)",
+        "Rule 6(3)",
+        "Rule 6(3) [Proviso]"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "6",
+          "title": "Duties of sellers on marketplace",
+          "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) No such seller shall falsely represent itself as a consumer and post reviews",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(3)",
+          "title": null,
+          "raw_text": "(3) No seller offering goods or services through a marketplace e-commerce",
+          "page_number": 6
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 6 - Duties of sellers on marketplace",
+        "SUB-RULE: (1), (2), (3)"
+      ],
+      "source_pages": [
+        6
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "page_spans": [
+        {
+          "page_number": 6,
+          "line_count": 14,
+          "first_line": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1023,
+      "text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services\nthrough a marketplace e-commerce entity shall adopt any unfair trade practice\nwhether in the course of the offer on the e-commerce entity' s platform or otherwise.\n(2) No such seller shall falsely represent itself as a consumer and post reviews\nabout goods or services or misrepresent the quality or the features of any goods\nor services.\n(3) No seller offering goods or services through a marketplace e-commerce\nentity shall refuse to take back goods, or withdraw or discontinue services\npurchased or agreed to be purchased, or refuse to refund consideration, if paid,\nif such goods or services are defective, deficient or spurious, or if the goods or\nservices are not of the characteristics or features as advertised or as agreed to, or if\nsuch goods or services are delivered late from the stated delivery schedule:\nProvided that in the case of late delivery, this sub-rule shall not be applied if\nsuch late delivery was due to force majeure.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 6 - Duties of sellers on marketplace | SUB-RULE: (1), (2), (3)]\n6. Duties of sellers on marketplace.—(l) No seller offering goods or services\nthrough a marketplace e-commerce entity shall adopt any unfair trade practice\nwhether in the course of the offer on the e-commerce entity' s platform or otherwise.\n(2) No such seller shall falsely represent itself as a consumer and post reviews\nabout goods or services or misrepresent the quality or the features of any goods\nor services.\n(3) No seller offering goods or services through a marketplace e-commerce\nentity shall refuse to take back goods, or withdraw or discontinue services\npurchased or agreed to be purchased, or refuse to refund consideration, if paid,\nif such goods or services are defective, deficient or spurious, or if the goods or\nservices are not of the characteristics or features as advertised or as agreed to, or if\nsuch goods or services are delivered late from the stated delivery schedule:\nProvided that in the case of late delivery, this sub-rule shall not be applied if\nsuch late delivery was due to force majeure."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0015",
+      "chunk_index": 15,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "6",
+      "rule_title": "Duties of sellers on marketplace",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(4)"
+      ],
+      "paragraph_references": [
+        "Rule 6(4)",
+        "Rule 6(4)(a)",
+        "Rule 6(4)(b)",
+        "Rule 6(4)(c)",
+        "Rule 6(4)(d)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "6",
+          "title": "Duties of sellers on marketplace",
+          "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(4)",
+          "title": null,
+          "raw_text": "(4) Any seller offering goods or services through a marketplace e-commerce",
+          "page_number": 6
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 6 - Duties of sellers on marketplace",
+        "SUB-RULE: (4)"
+      ],
+      "source_pages": [
+        6,
+        7
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "page_spans": [
+        {
+          "page_number": 6,
+          "line_count": 8,
+          "first_line": "(4) Any seller offering goods or services through a marketplace e-commerce"
+        },
+        {
+          "page_number": 7,
+          "line_count": 8,
+          "first_line": "(c) ensure that the advertisements for marketing of goods or services are"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 951,
+      "text": "(4) Any seller offering goods or services through a marketplace e-commerce\nentity shall:\n(a) have a prior written contract with the respective e-commerce entity in\norder to undertake or solicit such sale or offer;\n(b) appoint a grievance officer for consumer grievance redressal and ensure\nthat the grievance officer acknowledges the receipt of any consumer\ncomplaint within forty-eight hours and redresses the complaint within\none month from the date of receipt of the complaint;\n(c) ensure that the advertisements for marketing of goods or services are\nconsistent with the actual characteristics, access and usage conditions of\nsuch goods or services.\n(d) provide to the e-commerce entity its legal name, principal geographic\naddress of its headquarters and all branches, the name and details of its\nwebsite, its e-mail address, customer care contact details such as fax,\nlandline, and mobile numbers and where applicable, its GSTIN and PAN\ndetails.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 6 - Duties of sellers on marketplace | SUB-RULE: (4)]\n(4) Any seller offering goods or services through a marketplace e-commerce\nentity shall:\n(a) have a prior written contract with the respective e-commerce entity in\norder to undertake or solicit such sale or offer;\n(b) appoint a grievance officer for consumer grievance redressal and ensure\nthat the grievance officer acknowledges the receipt of any consumer\ncomplaint within forty-eight hours and redresses the complaint within\none month from the date of receipt of the complaint;\n(c) ensure that the advertisements for marketing of goods or services are\nconsistent with the actual characteristics, access and usage conditions of\nsuch goods or services.\n(d) provide to the e-commerce entity its legal name, principal geographic\naddress of its headquarters and all branches, the name and details of its\nwebsite, its e-mail address, customer care contact details such as fax,\nlandline, and mobile numbers and where applicable, its GSTIN and PAN\ndetails."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0016",
+      "chunk_index": 16,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "6",
+      "rule_title": "Duties of sellers on marketplace",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(5)"
+      ],
+      "paragraph_references": [
+        "Rule 6(5)",
+        "Rule 6(5)(a)",
+        "Rule 6(5)(b)",
+        "Rule 6(5)(c)",
+        "Rule 6(5)(d)",
+        "Rule 6(5)(e)",
+        "Rule 6(5)(f)",
+        "Rule 6(5)(g)",
+        "Rule 6(5)(h)",
+        "Rule 6(5)(i)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "6",
+          "title": "Duties of sellers on marketplace",
+          "raw_text": "6. Duties of sellers on marketplace.—(l) No seller offering goods or services",
+          "page_number": 6
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(5)",
+          "title": null,
+          "raw_text": "(5) Any seller offering goods or services through a marketplace e-commerce",
+          "page_number": 7
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 6 - Duties of sellers on marketplace",
+        "SUB-RULE: (5)"
+      ],
+      "source_pages": [
+        7
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "page_spans": [
+        {
+          "page_number": 7,
+          "line_count": 24,
+          "first_line": "(5) Any seller offering goods or services through a marketplace e-commerce"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1481,
+      "text": "(5) Any seller offering goods or services through a marketplace e-commerce\nentity shall provide the following information to the e-commerce entity to be\ndisplayed on its platform or website:\n(a) all contractual information required to be disclosed by law;\n(b) total price in single figure of any good or service, along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax, as applicable;\n(c) all mandatory notices and information provided by applicable laws, and\nthe expiry date of the good being offered for sale, where applicable;\n(d) all relevant details about the goods and services offered for sale by the\nseller including country of origin which are necessary for enabling the\nconsumer to make an informed decision at the prepurchase stage;\n(e) the name and contact numbers, and designation of the grievance officer\nfor consumer grievance redressal or for reporting any other matter;\n(f) name and details of importer, and guarantees related to the authenticity\nor genuineness of the imported products;\n(g) accurate information related to terms of exchange, returns, and refund\nincluding information related to costs of return shipping in a clear and\naccessible manner;\n(h) relevant details related to delivery and shipment of such goods or\nservices; and\n(i) any relevant guarantees or warranties applicable to such goods or\nservices.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 6 - Duties of sellers on marketplace | SUB-RULE: (5)]\n(5) Any seller offering goods or services through a marketplace e-commerce\nentity shall provide the following information to the e-commerce entity to be\ndisplayed on its platform or website:\n(a) all contractual information required to be disclosed by law;\n(b) total price in single figure of any good or service, along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax, as applicable;\n(c) all mandatory notices and information provided by applicable laws, and\nthe expiry date of the good being offered for sale, where applicable;\n(d) all relevant details about the goods and services offered for sale by the\nseller including country of origin which are necessary for enabling the\nconsumer to make an informed decision at the prepurchase stage;\n(e) the name and contact numbers, and designation of the grievance officer\nfor consumer grievance redressal or for reporting any other matter;\n(f) name and details of importer, and guarantees related to the authenticity\nor genuineness of the imported products;\n(g) accurate information related to terms of exchange, returns, and refund\nincluding information related to costs of return shipping in a clear and\naccessible manner;\n(h) relevant details related to delivery and shipment of such goods or\nservices; and\n(i) any relevant guarantees or warranties applicable to such goods or\nservices."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0017",
+      "chunk_index": 17,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "7",
+      "rule_title": "Duties and liabilities of inventory e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)",
+        "(3)"
+      ],
+      "paragraph_references": [
+        "Rule 7(1)",
+        "Rule 7(1)(a)",
+        "Rule 7(1)(b)",
+        "Rule 7(1)(c)",
+        "Rule 7(1)(d)",
+        "Rule 7(1)(e)",
+        "Rule 7(1)(f)",
+        "Rule 7(2)",
+        "Rule 7(3)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "7",
+          "title": "Duties and liabilities of inventory e-commerce entities",
+          "raw_text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every",
+          "page_number": 7
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every",
+          "page_number": 7
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) No inventory e-commerce entity shall falsely represent itself as a consumer",
+          "page_number": 8
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(3)",
+          "title": null,
+          "raw_text": "(3) Every inventory e-commerce entity shall ensure that the advertisements for",
+          "page_number": 8
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 7 - Duties and liabilities of inventory e-commerce entities",
+        "SUB-RULE: (1), (2), (3)"
+      ],
+      "source_pages": [
+        7,
+        8
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "page_spans": [
+        {
+          "page_number": 7,
+          "line_count": 11,
+          "first_line": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every"
+        },
+        {
+          "page_number": 8,
+          "line_count": 17,
+          "first_line": "86 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1738,
+      "text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every\ninventory e-commerce entity shall provide the following information in a clear and\naccessible manner, displayed prominently to its users:\n(a) accurate information related to return, refund, exchange, warranty\nand guarantee, delivery and shipment, cost of return shipping, mode\nof payments, grievance redressal mechanism, and any other similar\ninformation which may be required by consumers to make informed\ndecisions;\n(b) all mandatory notices and information required by applicable laws;\n(c) information on available payment methods, the security of those\npayment methods, the procedure to cancel regular payments under those\n86 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nmethods, any fees or charges payable by users, charge back options,\nif any, and the contact information of the relevant payment service\nprovider;\n(d) all contractual information required to be disclosed by law;\n(e) total price in single figure of any good or service along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges, such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax; and\n(f) a ticket number for each complaint lodged, through which the consumer\ncan track the status of their complaint.\n(2) No inventory e-commerce entity shall falsely represent itself as a consumer\nand post reviews about goods and services or misrepresent the quality or the\nfeatures of any goods or services.\n(3) Every inventory e-commerce entity shall ensure that the advertisements for\nmarketing of goods or services are consistent with the actual characteristics, access\nand usage conditions of such goods or services;",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 7 - Duties and liabilities of inventory e-commerce entities | SUB-RULE: (1), (2), (3)]\n7. Duties and liabilities of inventory e-commerce entities.—(l) Every\ninventory e-commerce entity shall provide the following information in a clear and\naccessible manner, displayed prominently to its users:\n(a) accurate information related to return, refund, exchange, warranty\nand guarantee, delivery and shipment, cost of return shipping, mode\nof payments, grievance redressal mechanism, and any other similar\ninformation which may be required by consumers to make informed\ndecisions;\n(b) all mandatory notices and information required by applicable laws;\n(c) information on available payment methods, the security of those\npayment methods, the procedure to cancel regular payments under those\n86 CONSUMER PROTECTION (E-COMMERCE) RULES, 2020\nmethods, any fees or charges payable by users, charge back options,\nif any, and the contact information of the relevant payment service\nprovider;\n(d) all contractual information required to be disclosed by law;\n(e) total price in single figure of any good or service along with the\nbreakup price for the good or service, showing all the compulsory\nand voluntary charges, such as delivery charges, postage and handling\ncharges, conveyance charges and the applicable tax; and\n(f) a ticket number for each complaint lodged, through which the consumer\ncan track the status of their complaint.\n(2) No inventory e-commerce entity shall falsely represent itself as a consumer\nand post reviews about goods and services or misrepresent the quality or the\nfeatures of any goods or services.\n(3) Every inventory e-commerce entity shall ensure that the advertisements for\nmarketing of goods or services are consistent with the actual characteristics, access\nand usage conditions of such goods or services;"
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0018",
+      "chunk_index": 18,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "7",
+      "rule_title": "Duties and liabilities of inventory e-commerce entities",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(4)",
+        "(5)"
+      ],
+      "paragraph_references": [
+        "Rule 7(4)",
+        "Rule 7(4) [Proviso]",
+        "Rule 7(5)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "7",
+          "title": "Duties and liabilities of inventory e-commerce entities",
+          "raw_text": "7. Duties and liabilities of inventory e-commerce entities.—(l) Every",
+          "page_number": 7
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(4)",
+          "title": null,
+          "raw_text": "(4) No inventory e-commerce entity shall refuse to take back goods, or",
+          "page_number": 8
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(5)",
+          "title": null,
+          "raw_text": "(5) Any inventory e-commerce entity which explicitly or implicitly vouches",
+          "page_number": 8
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 7 - Duties and liabilities of inventory e-commerce entities",
+        "SUB-RULE: (4), (5)"
+      ],
+      "source_pages": [
+        8
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "page_spans": [
+        {
+          "page_number": 8,
+          "line_count": 12,
+          "first_line": "(4) No inventory e-commerce entity shall refuse to take back goods, or"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 842,
+      "text": "(4) No inventory e-commerce entity shall refuse to take back goods, or\nwithdraw or discontinue services purchased or agreed to be purchased, or refuse\nto refund consideration, if paid, if such goods or services are defective, deficient\nspurious, or if the goods or services are not of the characteristics or features as\nadvertised or as agreed to, or if such goods or services are delivered late from the\nstated delivery schedule:\nProvided that in the case of late delivery, this sub rule shall not apply if such\nlate delivery was due to force majeure.\n(5) Any inventory e-commerce entity which explicitly or implicitly vouches\nfor the authenticity of the goods or services sold by it, or guarantees that such goods\nor services are authentic, shall bear appropriate liability in any action related to the\nauthenticity of such good or service.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 7 - Duties and liabilities of inventory e-commerce entities | SUB-RULE: (4), (5)]\n(4) No inventory e-commerce entity shall refuse to take back goods, or\nwithdraw or discontinue services purchased or agreed to be purchased, or refuse\nto refund consideration, if paid, if such goods or services are defective, deficient\nspurious, or if the goods or services are not of the characteristics or features as\nadvertised or as agreed to, or if such goods or services are delivered late from the\nstated delivery schedule:\nProvided that in the case of late delivery, this sub rule shall not apply if such\nlate delivery was due to force majeure.\n(5) Any inventory e-commerce entity which explicitly or implicitly vouches\nfor the authenticity of the goods or services sold by it, or guarantees that such goods\nor services are authentic, shall bear appropriate liability in any action related to the\nauthenticity of such good or service."
+    },
+    {
+      "chunk_id": "consumer_protection_ecommerce_rules_2020_chunk_0019",
+      "chunk_index": 19,
+      "document_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "8",
+      "rule_title": "Contravention of rules",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [
+        "Rule 8"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "8",
+          "title": "Contravention of rules",
+          "raw_text": "8. Contravention of rules.—The provisions of the Consumer Protection Act,",
+          "page_number": 8
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020",
+        "RULE: Rule 8 - Contravention of rules"
+      ],
+      "source_pages": [
+        8
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "page_spans": [
+        {
+          "page_number": 8,
+          "line_count": 2,
+          "first_line": "8. Contravention of rules.—The provisions of the Consumer Protection Act,"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 155,
+      "text": "8. Contravention of rules.—The provisions of the Consumer Protection Act,\n2019 (35 of 2019) shall apply for any violation of the provisions of these rules.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (E-Commerce) Rules, 2020 | RULE: Rule 8 - Contravention of rules]\n8. Contravention of rules.—The provisions of the Consumer Protection Act,\n2019 (35 of 2019) shall apply for any violation of the provisions of these rules."
+    }
+  ]
+}

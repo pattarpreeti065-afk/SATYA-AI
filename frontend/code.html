@@ -1,0 +1,1536 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SATYA | Know Your Rights</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        satya: "#0d1fd5",
+        navy: "#061d2f"
+      },
+      fontFamily: {
+        body: ["Inter", "sans-serif"],
+        heading: ["Plus Jakarta Sans", "sans-serif"]
+      }
+    }
+  }
+};
+</script>
+
+<style>
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background: #f7f9fb;
+}
+
+.material-symbols-outlined {
+  vertical-align: middle;
+}
+
+::-webkit-scrollbar { width: 6px; }
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 20px;
+}
+
+.page { display: none; }
+.page.active { display: block; }
+
+.nav-link.active {
+  background: #0d1fd5;
+  color: white;
+}
+
+.answer-section,
+.chat-message {
+  padding: 18px;
+  border: 1px solid #e5eaf1;
+  border-radius: 14px;
+  background: white;
+  margin-top: 12px;
+}
+
+.answer-section h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0d1fd5;
+  margin-bottom: 10px;
+}
+
+.answer-section p,
+.chat-message p {
+  color: #374151;
+  line-height: 1.8;
+  margin: 7px 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.answer-section ul {
+  padding-left: 22px;
+  list-style: disc;
+}
+
+.answer-section li {
+  line-height: 1.8;
+  padding: 3px 0;
+}
+
+.answer-intro {
+  background: #eef4ff;
+  border-color: #dbe7ff;
+}
+
+.chat-message.user {
+  background: #eaf0ff;
+  border-color: #d8e3ff;
+  margin-left: 35px;
+}
+
+.chat-message.assistant {
+  margin-right: 35px;
+}
+
+.chat-message .sender {
+  font-size: 12px;
+  font-weight: 700;
+  color: #0d1fd5;
+  margin-bottom: 7px;
+}
+
+.chat-input {
+  min-height: 54px;
+  resize: vertical;
+}
+
+button:disabled {
+  opacity: .6;
+  cursor: wait;
+}
+
+button {
+  transition: background-color .2s ease, border-color .2s ease;
+}
+
+@media(max-width:768px) {
+  aside { display: none !important; }
+  .main-content { margin-left: 0 !important; }
+  header { left: 0 !important; }
+  main { padding: 85px 16px 24px !important; }
+  .chat-message.user { margin-left: 10px; }
+  .chat-message.assistant { margin-right: 10px; }
+}
+</style>
+</head>
+
+<body class="text-gray-800">
+
+<!-- SIDEBAR -->
+
+<aside class="fixed left-0 top-0 h-screen w-64 bg-navy text-white z-50 flex flex-col py-7">
+
+  <div class="px-7 mb-10 flex items-center gap-3">
+    <div class="w-11 h-11 rounded-full bg-white flex items-center justify-center text-satya">
+      <span class="material-symbols-outlined text-3xl">account_balance</span>
+    </div>
+    <div>
+      <div class="font-heading text-2xl font-bold">SATYA</div>
+      <div class="text-xs text-blue-200">Know Your Rights</div>
+    </div>
+  </div>
+
+  <nav class="flex-1 px-4 space-y-2">
+
+    <button data-page="home" class="nav-link active w-full flex items-center gap-3 px-4 py-3 rounded-lg text-left">
+      <span class="material-symbols-outlined">home</span> Home
+    </button>
+
+    <button data-page="legal" class="nav-link w-full flex items-center gap-3 px-4 py-3 rounded-lg text-blue-100 hover:bg-blue-900 text-left">
+      <span class="material-symbols-outlined">chat</span> Legal Assistant Chat
+    </button>
+
+    <button data-page="guide" class="nav-link w-full flex items-center gap-3 px-4 py-3 rounded-lg text-blue-100 hover:bg-blue-900 text-left">
+      <span class="material-symbols-outlined">gavel</span> AI Case Filing Guide
+    </button>
+
+    <button data-page="history" class="nav-link w-full flex items-center gap-3 px-4 py-3 rounded-lg text-blue-100 hover:bg-blue-900 text-left">
+      <span class="material-symbols-outlined">history</span> Case History
+    </button>
+
+    <button data-page="documents" class="nav-link w-full flex items-center gap-3 px-4 py-3 rounded-lg text-blue-100 hover:bg-blue-900 text-left">
+      <span class="material-symbols-outlined">menu_book</span> Document Library
+    </button>
+
+  </nav>
+
+  <div class="px-4">
+    <div class="px-4 py-3 text-xs text-blue-200">
+      SATYA AI Legal Assistant
+    </div>
+  </div>
+
+</aside>
+
+<div class="main-content ml-64">
+
+<!-- HEADER -->
+
+<header class="fixed top-0 left-64 right-0 h-16 bg-white/90 backdrop-blur-xl shadow-sm z-40 flex justify-between items-center px-8">
+
+  <div class="font-heading font-bold text-navy">SATYA</div>
+
+  <div class="flex items-center gap-3">
+    <span id="header-title" class="text-sm text-gray-500">Home</span>
+
+    <!-- CLICKABLE PROFILE BUTTON -->
+    <button
+      type="button"
+      id="header-profile-button"
+      title="My Profile"
+      aria-label="Open My Profile"
+      class="w-9 h-9 rounded-full bg-blue-100 text-satya flex items-center justify-center hover:bg-blue-200 cursor-pointer"
+    >
+      <span class="material-symbols-outlined">person</span>
+    </button>
+  </div>
+
+</header>
+
+<main class="pt-24 px-8 pb-10">
+
+<!-- HOME PAGE -->
+
+<section id="page-home" class="page active">
+
+  <section class="relative overflow-hidden rounded-2xl border border-blue-100 shadow-sm px-6 py-10 text-center"
+    style="background:linear-gradient(180deg,#dcecff 0%,#edf5fd 60%,#ffffff 100%)">
+
+    <div class="max-w-3xl mx-auto">
+
+      <div class="mx-auto mb-5 w-24 h-24 rounded-full bg-white shadow-md border-2 border-blue-100 flex items-center justify-center">
+        <span class="material-symbols-outlined text-6xl text-satya">account_balance</span>
+      </div>
+
+      <h1 class="font-heading text-3xl md:text-4xl font-bold text-navy">
+        How can SATYA help you?
+      </h1>
+
+      <p class="text-gray-600 text-lg mt-3">
+        Understand Your Rights. Know Your Legal Options.
+      </p>
+
+      <form id="home-form" class="mt-8 bg-white rounded-full shadow-lg border border-blue-100 px-5 py-2 flex items-center gap-2">
+
+        <input
+          id="home-input"
+          class="flex-1 min-w-0 py-2 outline-none bg-transparent"
+          placeholder="Ask a legal question or describe your problem..."
+          autocomplete="off"
+        >
+
+        <button type="submit" class="w-11 h-11 rounded-full bg-satya text-white flex items-center justify-center">
+          <span class="material-symbols-outlined">send</span>
+        </button>
+
+      </form>
+
+      <p class="text-xs text-gray-500 mt-3">
+        Ask your question in simple language. SATYA will help you understand the relevant law.
+      </p>
+
+    </div>
+
+    <div class="flex flex-wrap justify-center gap-3 mt-7">
+
+      <button class="intent-chip bg-white border border-blue-100 rounded-full px-4 py-2 text-sm" data-intent="Can I file a case?">
+        Can I file a case?
+      </button>
+
+      <button class="intent-chip bg-white border border-blue-100 rounded-full px-4 py-2 text-sm" data-intent="How to file a complaint?">
+        How to file a complaint?
+      </button>
+
+      <button class="intent-chip bg-white border border-blue-100 rounded-full px-4 py-2 text-sm" data-intent="What are my consumer rights?">
+        Know my rights
+      </button>
+
+      <button class="intent-chip bg-white border border-blue-100 rounded-full px-4 py-2 text-sm" data-intent="Explain the Consumer Protection Act 2019">
+        Find a legal section
+      </button>
+
+    </div>
+
+  </section>
+
+  <section id="home-answer-container" class="hidden max-w-5xl mx-auto mt-8">
+    <h2 class="font-heading text-2xl font-bold text-navy mb-3">SATYA's Answer</h2>
+    <div id="home-answer"></div>
+  </section>
+
+  <section class="max-w-6xl mx-auto mt-12">
+
+    <h2 class="font-heading text-xl font-bold text-navy mb-6">Explore SATYA</h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+
+      <button data-page="legal" class="text-left bg-white rounded-xl p-6 shadow-sm hover:shadow-md">
+        <span class="material-symbols-outlined text-3xl text-satya">chat</span>
+        <h3 class="font-semibold text-navy mt-3">Legal Assistant Chat</h3>
+        <p class="text-sm text-gray-500 mt-2">Ask questions about Indian laws and your rights.</p>
+      </button>
+
+      <button data-page="guide" class="text-left bg-white rounded-xl p-6 shadow-sm hover:shadow-md">
+        <span class="material-symbols-outlined text-3xl text-satya">gavel</span>
+        <h3 class="font-semibold text-navy mt-3">AI Case Filing Guide</h3>
+        <p class="text-sm text-gray-500 mt-2">Understand your situation and prepare for a complaint.</p>
+      </button>
+
+      <div class="bg-white rounded-xl p-6 shadow-sm">
+        <span class="material-symbols-outlined text-3xl text-teal-700">menu_book</span>
+        <h3 class="font-semibold text-navy mt-3">Consumer Law</h3>
+        <p class="text-sm text-gray-500 mt-2">Learn about defective goods, refunds and service disputes.</p>
+      </div>
+
+    </div>
+  </section>
+
+</section>
+
+<!-- LEGAL ASSISTANT PAGE -->
+
+<section id="page-legal" class="page">
+
+  <div class="max-w-4xl mx-auto">
+
+    <div class="mb-6">
+      <p class="text-sm text-blue-600 font-semibold">SATYA AI</p>
+      <h1 class="font-heading text-3xl font-bold text-navy mt-2">Legal Assistant Chat</h1>
+      <p class="text-gray-500 mt-2">Ask questions about Indian laws, sections and your legal rights.</p>
+    </div>
+
+    <div id="legal-messages" class="bg-white border border-gray-200 rounded-2xl p-5 min-h-80 max-h-[55vh] overflow-y-auto">
+
+      <div class="chat-message assistant">
+        <div class="sender">SATYA LEGAL ASSISTANT</div>
+        <p>Hello! I can help you understand Indian laws and your legal rights. What would you like to know?</p>
+      </div>
+
+    </div>
+
+    <form id="legal-form" class="mt-4 bg-white border border-gray-200 rounded-xl p-3 flex gap-3 items-center">
+
+      <input
+        id="legal-input"
+        class="flex-1 outline-none p-3"
+        placeholder="Ask your legal question..."
+        autocomplete="off"
+      >
+
+      <button id="legal-send" type="submit" class="bg-satya text-white rounded-lg px-5 py-3">
+        <span class="material-symbols-outlined">send</span>
+      </button>
+
+    </form>
+
+    <p class="text-xs text-gray-500 mt-3">
+      Legal information is educational and does not replace advice from a qualified lawyer.
+    </p>
+
+  </div>
+
+</section>
+
+<!-- CASE FILING GUIDE PAGE -->
+
+<section id="page-guide" class="page">
+
+  <div class="max-w-4xl mx-auto">
+
+    <div class="mb-6">
+      <p class="text-sm text-blue-600 font-semibold">SATYA AI • INTERACTIVE GUIDANCE</p>
+      <h1 class="font-heading text-3xl font-bold text-navy mt-2">AI Case Filing Guide</h1>
+      <p class="text-gray-500 mt-2">
+        Describe what happened. SATYA will ask relevant questions and guide you through preparing your complaint.
+      </p>
+    </div>
+
+    <div class="bg-blue-50 border border-blue-100 rounded-xl p-4 mb-5">
+
+      <div class="flex gap-3">
+        <span class="material-symbols-outlined text-satya">info</span>
+
+        <p class="text-sm text-blue-900">
+          Start by explaining your problem in your own words. You can provide more details as SATYA asks follow-up questions. Do not share passwords, OTPs or PINs.
+        </p>
+      </div>
+
+    </div>
+
+    <div id="guide-messages" class="bg-white border border-gray-200 rounded-2xl p-5 min-h-80 max-h-[55vh] overflow-y-auto">
+
+      <div class="chat-message assistant">
+        <div class="sender">SATYA CASE FILING GUIDE</div>
+        <p>Hello! I can help you understand possible consumer-law issues and prepare for a complaint. What happened?</p>
+      </div>
+
+    </div>
+
+    <form id="guide-form" class="mt-4 bg-white border border-gray-200 rounded-xl p-3 flex gap-3 items-center">
+
+      <textarea
+        id="guide-input"
+        rows="1"
+        class="chat-input flex-1 outline-none p-3"
+        placeholder="Describe what happened..."
+        required
+      ></textarea>
+
+      <button id="guide-send" type="submit" class="bg-satya text-white rounded-lg px-5 py-3 self-end">
+        <span class="material-symbols-outlined">send</span>
+      </button>
+
+    </form>
+
+    <div class="flex justify-between items-center mt-3">
+      <p class="text-xs text-gray-500">Your conversations are stored locally in this browser.</p>
+      <button id="guide-reset" type="button" class="text-sm text-red-600 hover:underline">
+        Start new conversation
+      </button>
+    </div>
+
+    <p class="text-xs text-gray-500 mt-3">
+      SATYA provides general legal information, not formal legal advice or a guarantee of complaint success.
+    </p>
+
+  </div>
+
+</section>
+
+<!-- CASE HISTORY PAGE -->
+
+<section id="page-history" class="page">
+
+  <div class="max-w-5xl mx-auto">
+
+    <div class="flex flex-wrap justify-between items-center gap-4 mb-6">
+
+      <div>
+        <p class="text-sm text-blue-600 font-semibold">YOUR ACTIVITY</p>
+        <h1 class="font-heading text-3xl font-bold text-navy mt-2">Case History</h1>
+        <p class="text-gray-500 mt-2">View and continue your previous legal conversations.</p>
+      </div>
+
+      <button id="refresh-history" class="bg-satya text-white px-5 py-3 rounded-lg hover:bg-blue-800">
+        <span class="material-symbols-outlined mr-1">refresh</span>
+        Refresh
+      </button>
+
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+
+      <div class="bg-white border border-gray-200 rounded-xl p-5">
+        <p class="text-sm text-gray-500">Total Conversations</p>
+        <h2 id="history-total" class="text-3xl font-bold text-navy mt-2">0</h2>
+      </div>
+
+      <div class="bg-white border border-gray-200 rounded-xl p-5">
+        <p class="text-sm text-gray-500">Case Filing Guides</p>
+        <h2 id="history-guide-total" class="text-3xl font-bold text-navy mt-2">0</h2>
+      </div>
+
+    </div>
+
+    <div class="bg-white border border-gray-200 rounded-2xl p-6">
+
+      <div class="flex flex-wrap justify-between items-center gap-3 mb-5">
+
+        <h2 class="font-heading text-xl font-bold text-navy">Previous Conversations</h2>
+
+        <select id="history-filter" class="border border-gray-300 rounded-lg px-3 py-2 text-sm outline-none">
+          <option value="all">All Conversations</option>
+          <option value="legal">Legal Assistant</option>
+          <option value="guide">Case Filing Guide</option>
+        </select>
+
+      </div>
+
+      <div id="history-list" class="space-y-3">
+
+        <div class="text-center py-12 text-gray-500">
+          <span class="material-symbols-outlined text-5xl">history</span>
+          <p class="mt-3">No conversations saved yet.</p>
+          <p class="text-sm mt-1">Your conversations will appear here automatically.</p>
+        </div>
+
+      </div>
+
+    </div>
+
+    <p class="text-xs text-gray-500 mt-4">
+      History is stored in this browser on this device. It is not cloud-synced.
+    </p>
+
+  </div>
+
+</section>
+
+<!-- DOCUMENT LIBRARY PAGE -->
+
+<section id="page-documents" class="page">
+
+  <div class="max-w-5xl mx-auto">
+
+    <div class="mb-8">
+      <p class="text-sm text-blue-600 font-semibold">LEGAL RESOURCES</p>
+
+      <h1 class="font-heading text-3xl font-bold text-navy mt-2">
+        Documentation Library
+      </h1>
+
+      <p class="text-gray-500 mt-2">
+        Access the legal documents used by SATYA AI to provide consumer-law information and guidance.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+
+      <div class="bg-white border rounded-xl p-6 shadow-sm">
+        <span class="material-symbols-outlined text-4xl text-red-600">picture_as_pdf</span>
+
+        <h2 class="font-bold text-lg text-navy mt-3">
+          Consumer Protection Act, 2019
+        </h2>
+
+        <p class="text-sm text-gray-500 mt-2">
+          Main legislation covering consumer rights, complaints, remedies and consumer commissions.
+        </p>
+
+        <a href="http://127.0.0.1:8000/documents/act-2019"
+           class="inline-block mt-4 bg-satya text-white px-4 py-2 rounded-lg text-sm">
+          Download PDF
+        </a>
+
+        <span class="inline-block mt-4 text-xs bg-blue-50 text-blue-700 px-3 py-1 rounded-full">
+          Legal Act
+        </span>
+      </div>
+
+      <div class="bg-white border rounded-xl p-6 shadow-sm">
+        <span class="material-symbols-outlined text-4xl text-red-600">picture_as_pdf</span>
+
+        <h2 class="font-bold text-lg text-navy mt-3">
+          Consumer Protection (General) Rules, 2020
+        </h2>
+
+        <p class="text-sm text-gray-500 mt-2">
+          General rules supporting implementation of consumer protection legislation.
+        </p>
+
+        <a href="http://127.0.0.1:8000/documents/general-rules-2020"
+           class="inline-block mt-4 bg-satya text-white px-4 py-2 rounded-lg text-sm">
+          Download PDF
+        </a>
+
+        <span class="inline-block mt-4 text-xs bg-blue-50 text-blue-700 px-3 py-1 rounded-full">
+          General Rules
+        </span>
+      </div>
+
+      <div class="bg-white border rounded-xl p-6 shadow-sm">
+        <span class="material-symbols-outlined text-4xl text-red-600">picture_as_pdf</span>
+
+        <h2 class="font-bold text-lg text-navy mt-3">
+          Consumer Protection (E-Commerce) Rules, 2020
+        </h2>
+
+        <p class="text-sm text-gray-500 mt-2">
+          Consumer protections and responsibilities relating to online shopping and e-commerce platforms.
+        </p>
+
+        <a href="http://127.0.0.1:8000/documents/ecommerce-rules-2020"
+           class="inline-block mt-4 bg-satya text-white px-4 py-2 rounded-lg text-sm">
+          Download PDF
+        </a>
+
+        <span class="inline-block mt-4 text-xs bg-blue-50 text-blue-700 px-3 py-1 rounded-full">
+          E-Commerce Rules
+        </span>
+      </div>
+
+      <div class="bg-white border rounded-xl p-6 shadow-sm">
+        <span class="material-symbols-outlined text-4xl text-red-600">picture_as_pdf</span>
+
+        <h2 class="font-bold text-lg text-navy mt-3">
+          E-Commerce Amendment Rules, 2021
+        </h2>
+
+        <p class="text-sm text-gray-500 mt-2">
+          Amendments relating to the Consumer Protection E-Commerce Rules.
+        </p>
+
+        <a href="http://127.0.0.1:8000/documents/ecommerce-amendment-2021"
+           class="inline-block mt-4 bg-satya text-white px-4 py-2 rounded-lg text-sm">
+          Download PDF
+        </a>
+
+        <span class="inline-block mt-4 text-xs bg-blue-50 text-blue-700 px-3 py-1 rounded-full">
+          Amendment
+        </span>
+      </div>
+
+    </div>
+
+    <div class="mt-7 bg-blue-50 border border-blue-100 rounded-xl p-5">
+      <p class="text-sm text-blue-900">
+        <strong>About this library:</strong> These are the four legal document categories used in SATYA's legal knowledge base. The PDFs are available to download using the links above.
+      </p>
+    </div>
+
+  </div>
+
+</section>
+
+<!-- MY PROFILE PAGE -->
+
+<section id="page-profile" class="page">
+
+  <div class="max-w-3xl mx-auto">
+
+    <div class="mb-8">
+      <p class="text-sm text-blue-600 font-semibold">ACCOUNT SETTINGS</p>
+
+      <h1 class="font-heading text-3xl font-bold text-navy mt-2">
+        My Profile
+      </h1>
+
+      <p class="text-gray-500 mt-2">
+        Manage your personal information and profile details.
+      </p>
+    </div>
+
+    <div class="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm">
+
+      <div class="flex flex-col items-center mb-8">
+
+        <div class="w-24 h-24 rounded-full bg-blue-100 text-satya flex items-center justify-center">
+          <span class="material-symbols-outlined text-6xl">account_circle</span>
+        </div>
+
+        <h2 id="profile-display-name"
+            class="font-heading text-xl font-bold text-navy mt-4">
+          SATYA User
+        </h2>
+
+        <p class="text-sm text-gray-500">SATYA AI User</p>
+
+      </div>
+
+      <form id="profile-form" class="space-y-5">
+
+        <div>
+          <label for="profile-name" class="block text-sm font-semibold text-gray-700 mb-2">
+            Full Name
+          </label>
+
+          <input
+            id="profile-name"
+            type="text"
+            maxlength="80"
+            required
+            placeholder="Enter your full name"
+            class="w-full border border-gray-300 rounded-lg px-4 py-3 outline-none focus:border-blue-500"
+          >
+        </div>
+
+        <div>
+          <label for="profile-email" class="block text-sm font-semibold text-gray-700 mb-2">
+            Email Address
+          </label>
+
+          <input
+            id="profile-email"
+            type="email"
+            maxlength="120"
+            placeholder="Enter your email address"
+            class="w-full border border-gray-300 rounded-lg px-4 py-3 outline-none focus:border-blue-500"
+          >
+        </div>
+
+        <div>
+          <label class="block text-sm font-semibold text-gray-700 mb-2">
+            Account Role
+          </label>
+
+          <input
+            type="text"
+            value="User"
+            disabled
+            class="w-full border border-gray-200 bg-gray-100 rounded-lg px-4 py-3 text-gray-500"
+          >
+        </div>
+
+        <div class="flex flex-wrap items-center gap-4 pt-3">
+
+          <button
+            type="submit"
+            class="bg-satya hover:bg-blue-800 text-white px-6 py-3 rounded-lg font-semibold"
+          >
+            <span class="material-symbols-outlined mr-1">save</span>
+            Save Profile
+          </button>
+
+          <button
+            type="reset"
+            class="border border-gray-300 px-6 py-3 rounded-lg text-gray-700"
+          >
+            Reset
+          </button>
+
+        </div>
+
+        <p
+          id="profile-status"
+          class="text-sm text-green-700"
+          role="status"
+          aria-live="polite"
+        ></p>
+
+      </form>
+
+    </div>
+
+    <p class="text-xs text-gray-500 mt-4">
+      Profile information is saved locally in this browser. It is not connected to a user account or cloud database.
+    </p>
+
+  </div>
+
+</section>
+
+<footer class="max-w-4xl mx-auto mt-16 pb-8 text-center text-xs text-gray-500">
+  SATYA is an AI-powered legal information prototype. Responses are for educational awareness and do not constitute formal legal advice.
+</footer>
+
+</main>
+</div>
+
+<script>
+"use strict";
+
+const API_BASE = "http://127.0.0.1:8000";
+async function callAPI(endpoint, body) {
+  const response = await fetch(`${API_BASE}${endpoint}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(body)
+  });
+
+  const data = await response.json();
+
+  if (!response.ok) {
+    throw new Error(data.detail || "API request failed");
+  }
+
+  return data;
+}
+const CASE_HISTORY_KEY = "satya_case_history";
+const PROFILE_STORAGE_KEY = "satya_user_profile";
+
+let legalHistory = [];
+let guideHistory = [];
+
+window.activeCaseId = null;
+
+// =====================================
+// MY PROFILE
+// =====================================
+
+function loadProfile() {
+  let profile = {};
+
+  try {
+    profile = JSON.parse(
+      localStorage.getItem(PROFILE_STORAGE_KEY)
+    ) || {};
+  } catch (error) {
+    console.error("Unable to load profile:", error);
+  }
+
+  document.getElementById("profile-name").value =
+    profile.name || "";
+
+  document.getElementById("profile-email").value =
+    profile.email || "";
+
+  document.getElementById("profile-display-name").textContent =
+    profile.name || "SATYA User";
+}
+
+document.getElementById("profile-form")
+  .addEventListener("submit", event => {
+
+    event.preventDefault();
+
+    const name = document.getElementById("profile-name")
+      .value.trim();
+
+    const email = document.getElementById("profile-email")
+      .value.trim();
+
+    if (!name) {
+      alert("Please enter your name.");
+      return;
+    }
+
+    const profile = { name, email };
+
+    try {
+      localStorage.setItem(
+        PROFILE_STORAGE_KEY,
+        JSON.stringify(profile)
+      );
+
+      document.getElementById("profile-display-name")
+        .textContent = name;
+
+      document.getElementById("profile-status")
+        .textContent = "Profile saved successfully!";
+
+    } catch (error) {
+      document.getElementById("profile-status")
+        .textContent = "Unable to save profile.";
+
+      console.error("Profile save error:", error);
+    }
+
+  });
+
+document.getElementById("profile-form")
+  .addEventListener("reset", () => {
+
+    setTimeout(() => {
+      loadProfile();
+
+      document.getElementById("profile-status")
+        .textContent = "Saved profile details restored.";
+    }, 0);
+
+  });
+
+// Load saved profile when SATYA starts
+loadProfile();
+
+// =====================================
+// CASE HISTORY STORAGE
+// =====================================
+
+function getSavedCases() {
+  try {
+    return JSON.parse(
+      localStorage.getItem(CASE_HISTORY_KEY)
+    ) || [];
+  } catch (error) {
+    console.error("Unable to read case history:", error);
+    return [];
+  }
+}
+
+function saveCases(cases) {
+  try {
+    localStorage.setItem(
+      CASE_HISTORY_KEY,
+      JSON.stringify(cases)
+    );
+  } catch (error) {
+    console.error("Unable to save case history:", error);
+    alert("Unable to save conversation history in this browser.");
+  }
+}
+
+function saveConversation(type, question, answer) {
+
+  const cases = getSavedCases();
+
+  let existingCase = cases.find(
+    item => item.id === window.activeCaseId && item.type === type
+  );
+
+  if (!existingCase) {
+
+    existingCase = {
+      id: Date.now().toString(),
+      type,
+      title: question.slice(0, 65),
+      messages: [],
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    };
+
+    cases.unshift(existingCase);
+    window.activeCaseId = existingCase.id;
+  }
+
+  existingCase.messages.push(
+    { role: "user", content: question },
+    { role: "assistant", content: answer }
+  );
+
+  existingCase.updatedAt = new Date().toISOString();
+
+  saveCases(cases);
+  renderCaseHistory();
+}
+
+// =====================================
+// RENDER CASE HISTORY
+// =====================================
+
+function renderCaseHistory() {
+
+  const list = document.getElementById("history-list");
+  if (!list) return;
+
+  const cases = getSavedCases();
+
+  const filter = document.getElementById("history-filter").value;
+
+  const filteredCases = cases.filter(item =>
+    filter === "all" || item.type === filter
+  );
+
+  document.getElementById("history-total").textContent =
+    cases.length;
+
+  document.getElementById("history-guide-total").textContent =
+    cases.filter(item => item.type === "guide").length;
+
+  list.replaceChildren();
+
+  if (filteredCases.length === 0) {
+
+    const empty = document.createElement("div");
+
+    empty.className = "text-center py-12 text-gray-500";
+    empty.textContent = "No conversations found.";
+
+    list.appendChild(empty);
+    return;
+  }
+
+  filteredCases.forEach(item => {
+
+    const card = document.createElement("div");
+    card.className =
+      "border border-gray-200 rounded-xl p-5 hover:border-blue-300 transition";
+
+    const top = document.createElement("div");
+    top.className = "flex flex-wrap justify-between gap-2";
+
+    const title = document.createElement("h3");
+    title.className = "font-semibold text-navy";
+    title.textContent = item.title || "Legal conversation";
+
+    const type = document.createElement("span");
+    type.className =
+      "text-xs px-3 py-1 rounded-full bg-blue-50 text-blue-700";
+
+    type.textContent =
+      item.type === "guide"
+        ? "Case Filing Guide"
+        : "Legal Assistant";
+
+    const date = document.createElement("p");
+    date.className = "text-xs text-gray-500 mt-3";
+
+    date.textContent =
+      "Last updated: " +
+      new Date(item.updatedAt).toLocaleString();
+
+    const count = document.createElement("p");
+    count.className = "text-sm text-gray-500 mt-2";
+
+    count.textContent =
+      Math.floor((item.messages || []).length / 2) +
+      " questions";
+
+    const actions = document.createElement("div");
+    actions.className = "flex gap-2 mt-4";
+
+    const openButton = document.createElement("button");
+
+    openButton.className =
+      "bg-satya text-white px-4 py-2 rounded-lg text-sm";
+
+    openButton.textContent = "Open Conversation";
+
+    openButton.addEventListener("click", () => {
+      openSavedCase(item.id);
+    });
+
+    const deleteButton = document.createElement("button");
+
+    deleteButton.className =
+      "border border-red-200 text-red-600 px-4 py-2 rounded-lg text-sm";
+
+    deleteButton.textContent = "Delete";
+
+    deleteButton.addEventListener("click", () => {
+
+      if (!confirm("Delete this conversation permanently?")) return;
+
+      saveCases(
+        getSavedCases().filter(c => c.id !== item.id)
+      );
+
+      if (window.activeCaseId === item.id) {
+        window.activeCaseId = null;
+      }
+
+      renderCaseHistory();
+
+    });
+
+    top.append(title, type);
+    actions.append(openButton, deleteButton);
+    card.append(top, date, count, actions);
+
+    list.appendChild(card);
+
+  });
+
+}
+
+// =====================================
+// OPEN SAVED CONVERSATION
+// =====================================
+
+function openSavedCase(id) {
+
+  const item = getSavedCases().find(c => c.id === id);
+  if (!item) return;
+
+  window.activeCaseId = item.id;
+
+  const container = document.getElementById(
+    item.type === "guide"
+      ? "guide-messages"
+      : "legal-messages"
+  );
+
+  container.replaceChildren();
+
+  (item.messages || []).forEach(message => {
+
+    addMessage(
+      container,
+      message.role === "user" ? "user" : "assistant",
+      message.content
+    );
+
+  });
+
+  if (item.type === "guide") {
+
+    guideHistory = (item.messages || []).slice(-8);
+    showPage("guide");
+
+  } else {
+
+    legalHistory = item.messages || [];
+    showPage("legal");
+
+  }
+
+}
+
+document.getElementById("refresh-history")
+  .addEventListener("click", renderCaseHistory);
+
+document.getElementById("history-filter")
+  .addEventListener("change", renderCaseHistory);
+
+// =====================================
+// PAGE NAVIGATION
+// =====================================
+
+const pageTitles = {
+  home: "Home",
+  legal: "Legal Assistant Chat",
+  guide: "AI Case Filing Guide",
+  history: "Case History",
+  documents: "Document Library",
+  profile: "My Profile"
+};
+
+function showPage(page) {
+
+  document.querySelectorAll(".page").forEach(section => {
+    section.classList.remove("active");
+  });
+
+  const selected = document.getElementById("page-" + page);
+
+  if (!selected) return;
+
+  selected.classList.add("active");
+
+  document.querySelectorAll(".nav-link").forEach(button => {
+
+    button.classList.toggle(
+      "active",
+      button.dataset.page === page
+    );
+
+  });
+
+  document.getElementById("header-title").textContent =
+    pageTitles[page] || "SATYA";
+
+  if (page === "history") {
+    renderCaseHistory();
+  }
+
+  if (page === "profile") {
+    loadProfile();
+  }
+
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+
+}
+
+// Sidebar and home navigation
+document.querySelectorAll("[data-page]").forEach(button => {
+
+  button.addEventListener("click", () => {
+    showPage(button.dataset.page);
+  });
+
+});
+
+// =====================================
+// TOP-RIGHT PROFILE BUTTON
+// =====================================
+
+document.getElementById("header-profile-button")
+  .addEventListener("click", () => {
+
+    loadProfile();
+    showPage("profile");
+
+  });
+
+// =====================================
+// CHAT MESSAGE DISPLAY
+// =====================================
+function addMessage(container, role, text) {
+
+  const message = document.createElement("div");
+  message.className = "chat-message " + role;
+
+  const sender = document.createElement("div");
+  sender.className = "sender";
+
+  sender.textContent =
+    role === "user" ? "YOU" : "SATYA AI";
+
+  const content = document.createElement("div");
+  content.className = "message-content";
+
+  // Remove unnecessary escaped Markdown characters
+  let formattedText = String(text || "");
+
+// Clean escaped Markdown characters
+formattedText = formattedText
+  .replace(/\\\r?\n/g, "\n")
+  .replace(/\\n/g, "\n")
+  .replace(/\\([*_`#\-.])/g, "$1")
+  .replace(/&#x20;/gi, " ");
+
+// Escape HTML
+formattedText = formattedText
+  .replace(/&/g, "&amp;")
+  .replace(/</g, "&lt;")
+  .replace(/>/g, "&gt;")
+  .replace(/"/g, "&quot;")
+  .replace(/'/g, "&#039;");
+
+// Bold
+formattedText = formattedText.replace(
+  /\*\*(.*?)\*\*/g,
+  "<strong>$1</strong>"
+);
+
+// Italic
+formattedText = formattedText.replace(
+  /\*(.*?)\*/g,
+  "<em>$1</em>"
+);
+
+// Line breaks
+formattedText = formattedText.replace(/\n/g, "<br>");
+
+content.innerHTML = formattedText;
+  message.append(sender, content);
+  container.appendChild(message);
+
+  container.scrollTop = container.scrollHeight;
+
+  return message;
+}
+
+
+// =====================================
+// PDF DOWNLOAD
+// =====================================
+
+async function downloadComplaintPDF(complaintText, button) {
+
+  const originalText = button.textContent;
+
+  try {
+
+    button.disabled = true;
+    button.textContent = "Generating PDF...";
+
+    const response = await fetch(
+      API_BASE + "/generate-pdf",
+      {
+        method: "POST",
+
+        headers: {
+          "Content-Type": "application/json"
+        },
+
+        body: JSON.stringify({
+          complaint_text: complaintText
+        })
+      }
+    );
+
+    if (!response.ok) {
+
+      let message = "Unable to generate PDF.";
+
+      try {
+        const error = await response.json();
+        message = error.detail || message;
+      } catch (_) {}
+
+      throw new Error(message);
+
+    }
+
+    const pdfBlob = await response.blob();
+
+    const pdfURL = URL.createObjectURL(pdfBlob);
+
+    const link = document.createElement("a");
+
+    link.href = pdfURL;
+    link.download = "SATYA_Consumer_Complaint.pdf";
+
+    document.body.appendChild(link);
+
+    link.click();
+    link.remove();
+
+    setTimeout(() => {
+      URL.revokeObjectURL(pdfURL);
+    }, 1000);
+
+    button.textContent = "PDF Downloaded";
+
+  } catch (error) {
+
+    alert("PDF generation failed: " + error.message);
+
+    button.textContent = originalText;
+
+  } finally {
+
+    button.disabled = false;
+
+  }
+
+}
+
+// =====================================
+// HOME PAGE
+// =====================================
+
+document.getElementById("home-form")
+  .addEventListener("submit", event => {
+
+    event.preventDefault();
+
+    const input = document.getElementById("home-input");
+
+    const question = input.value.trim();
+
+    if (!question) return;
+
+    showPage("legal");
+
+    document.getElementById("legal-input").value = question;
+
+    input.value = "";
+
+    document.getElementById("legal-form").requestSubmit();
+
+  });
+
+document.querySelectorAll(".intent-chip").forEach(button => {
+
+  button.addEventListener("click", () => {
+
+    document.getElementById("home-input").value =
+      button.dataset.intent;
+
+    document.getElementById("home-input").focus();
+
+  });
+
+});
+
+// =====================================
+// LEGAL ASSISTANT CHAT
+// =====================================
+
+document.getElementById("legal-form")
+  .addEventListener("submit", async event => {
+
+    event.preventDefault();
+
+    const input = document.getElementById("legal-input");
+
+    const button = document.getElementById("legal-send");
+
+    const container = document.getElementById("legal-messages");
+
+    const question = input.value.trim();
+
+    if (!question) return;
+
+    addMessage(container, "user", question);
+
+    input.value = "";
+
+    button.disabled = true;
+
+    const loading = addMessage(
+      container,
+      "assistant",
+      "SATYA is searching legal documents and preparing your answer..."
+    );
+
+    try {
+
+      const data = await callAPI("/ask", {
+        question: question
+      });
+
+      loading.remove();
+
+      const answer = data.answer || "No answer was returned.";
+
+      addMessage(container, "assistant", answer);
+
+      saveConversation("legal", question, answer);
+
+    } catch (error) {
+
+      loading.remove();
+
+      addMessage(
+        container,
+        "assistant",
+        "Unable to get an answer: " + error.message
+      );
+
+    } finally {
+
+      button.disabled = false;
+      input.focus();
+
+    }
+
+  });
+
+// =====================================
+// AI CASE FILING GUIDE CHAT
+// =====================================
+
+document.getElementById("guide-form")
+  .addEventListener("submit", async event => {
+
+    event.preventDefault();
+
+    const input = document.getElementById("guide-input");
+
+    const button = document.getElementById("guide-send");
+
+    const container = document.getElementById("guide-messages");
+
+    const question = input.value.trim();
+
+    if (!question) return;
+
+    addMessage(container, "user", question);
+
+    input.value = "";
+
+    button.disabled = true;
+
+    const loading = addMessage(
+      container,
+      "assistant",
+      "SATYA is reviewing your situation and relevant legal documents..."
+    );
+
+    try {
+
+      const data = await callAPI("/guide", {
+        question: question
+      });
+
+      loading.remove();
+
+      const answer = data.answer || "No answer was returned.";
+
+      const assistantMessage = addMessage(
+        container,
+        "assistant",
+        answer
+      );
+
+      const isComplaintDraft =
+        /complaint|draft|filing|petition/i.test(question) ||
+        /COMPLAINT UNDER|BEFORE THE DISTRICT|IN THE MATTER OF/i.test(answer);
+
+      if (isComplaintDraft) {
+
+        const downloadButton = document.createElement("button");
+
+        downloadButton.type = "button";
+
+        downloadButton.className =
+          "mt-3 bg-blue-700 hover:bg-blue-800 text-white px-5 py-3 rounded-lg font-semibold";
+
+        downloadButton.textContent = "Download Complaint PDF";
+
+        downloadButton.addEventListener("click", () => {
+
+          downloadComplaintPDF(answer, downloadButton);
+
+        });
+
+        assistantMessage.appendChild(downloadButton);
+
+      }
+
+      guideHistory.push(
+        { role: "user", content: question },
+        { role: "assistant", content: answer }
+      );
+
+      guideHistory = guideHistory.slice(-8);
+
+      saveConversation("guide", question, answer);
+
+    } catch (error) {
+
+      loading.remove();
+
+      addMessage(
+        container,
+        "assistant",
+        "Unable to get guidance: " + error.message
+      );
+
+    } finally {
+
+      button.disabled = false;
+      input.focus();
+
+    }
+
+  });
+
+// =====================================
+// RESET CASE FILING GUIDE
+// =====================================
+
+document.getElementById("guide-reset")
+  .addEventListener("click", () => {
+
+    guideHistory = [];
+
+    const currentCase = getSavedCases().find(
+      item => item.id === window.activeCaseId
+    );
+
+    if (currentCase && currentCase.type === "guide") {
+      window.activeCaseId = null;
+    }
+
+    const container = document.getElementById("guide-messages");
+
+    container.replaceChildren();
+
+    addMessage(
+      container,
+      "assistant",
+      "Hello! I can help you understand possible consumer-law issues and prepare for a complaint. What happened?"
+    );
+
+  });
+
+// =====================================
+// KEYBOARD SUPPORT
+// =====================================
+
+document.getElementById("legal-input")
+  .addEventListener("keydown", event => {
+
+    if (event.key === "Enter") {
+
+      event.preventDefault();
+
+      document.getElementById("legal-form").requestSubmit();
+
+    }
+
+  });
+
+// =====================================
+// INITIALIZE SATYA
+// =====================================
+
+renderCaseHistory();
+loadProfile();
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,546 @@
+{
+  "doc_id": "consumer_protection_general_rules_2020",
+  "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+  "source_path": "documents\\consumer_law\\Consumer_Protection_General_Rules_2020.pdf",
+  "document_title": "Consumer Protection (General) Rules, 2020",
+  "doc_type": "rules",
+  "citation": "G.S.R. 449(E)",
+  "file_size_bytes": 627648,
+  "file_hash": "6d182b13c279666a9795193dbe5af4b700805a742c561a195eb162ca84b7124d",
+  "content_hash": "f9ac7c70711a158ae510cc9290c25fa6fcca008ea00f90a55a4d3681d7928923",
+  "status": "success",
+  "extraction_method": "ocr",
+  "total_pages": 3,
+  "scanned_pages": [
+    1,
+    2,
+    3
+  ],
+  "ocr_pages": [
+    1,
+    2,
+    3
+  ],
+  "failed_pages": [],
+  "pdf_metadata": {
+    "format": "PDF 1.3"
+  },
+  "heading_counts": {
+    "RULES": 1,
+    "RULE": 5,
+    "SUB-RULE": 5
+  },
+  "detected_headings": [
+    {
+      "heading_type": "RULES",
+      "identifier": "G.S.R. 449(E)",
+      "title": "Consumer Protection (General) Rules, 2020",
+      "raw_text": "Consumer Protection (General) Rules, 2020",
+      "page_number": 1
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "1",
+      "title": "Short title and commencement",
+      "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) They shall come into force on the 20th day of July, 2020.",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "2",
+      "title": "Definitions",
+      "raw_text": "2. Definitions.—ln these rules, unless the context otherwise requires,—",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "2. Definitions.—ln these rules, unless the context otherwise requires,—",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "3",
+      "title": "Public utility services to be establishments",
+      "raw_text": "3. Public utility services to be establishments.—Public utility services shall",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "4",
+      "title": "Certain activities to be exempt from unfair trade practice",
+      "raw_text": "4. Certain activities to be exempt from unfair trade practice.—Permitting",
+      "page_number": 2
+    },
+    {
+      "heading_type": "RULE",
+      "identifier": "5",
+      "title": "Manner of issuing invoice or bill or cash memo or receipt for goods sold or services rendered",
+      "raw_text": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(1)",
+      "title": null,
+      "raw_text": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold",
+      "page_number": 2
+    },
+    {
+      "heading_type": "SUB-RULE",
+      "identifier": "(2)",
+      "title": null,
+      "raw_text": "(2) The serial number on the invoice, bill, cash memo or receipt to be issued by",
+      "page_number": 3
+    }
+  ],
+  "total_chunks": 7,
+  "warnings": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 388,
+      "margin_notes": [],
+      "cleaned_text": "The\nConsurner Protection\n(General)\nRules, 2020\nCONTENTS\nRules\nPages\nI. Short title and commencement ............ . 74\n2. Definitions 74\n3. Public utility services to be establishments .................... 74\n4. Certain activities to be exempt from unfair trade practice 74\n.............\n5. Manner of issuing invoice or bill or cash memo or receipt for goods\nsold or services rendered . 74",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 2224,
+      "margin_notes": [],
+      "cleaned_text": "The\nConsumer Protection General)\nRules, 20201\nIn exercise of the powers conferred by sub-section ( I ) and clauses (b) and (c) of\nsub-section (2) of Section 101 of the Consumer Protection Act, 2019 (35 of 2019),\nthe Central Government hereby makes the following rules, namely:—\n1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (General) Rules, 2020.\n(2) They shall come into force on the 20th day of July, 2020.\n2. Definitions.—ln these rules, unless the context otherwise requires,—\n(a) 'Act\" means the Consumer Protection Act, 2019 ( 35 of 2019);\n(b) 'public utility service' means any—\n(i) transport service for the carriage of passengers or goods by air,\nroad or water; or\n(ii) postal, telegraph, telephone or broadband service; or\n(iii) supply of power, light or water or fuel or natural gas to the public\nby any establishment; or\n(iv) insurance service; and\n(v) service in, or in connection with, the working of any major port\nor dock;\n3. Public utility services to be establishments.—Public utility services shall\nbe establishments for the purpose of Clause (19) of Section 2.\n4. Certain activities to be exempt from unfair trade practice.—Permitting\nof the following activities carried out for promoting directly or indirectly the sale,\nuse or supply of any product or any business interest shall be exempt from the\npurview of unfair trade practices, namely—\n(a) lotteries allowed under the Lotteries (Regulation) Act, 1998 (17 of\n1998); and\n(b) games of chance or skill not prohibited under the Public Gambling Act,\n1867 (3 of 1867), which are not gambling and wherein success depends\non a substantial degree of skill and not chance.\n5. Manner of issuing invoice or bill or cash memo or receipt for goods sold\nor services rendered.—(l) Every invoice, bill, cash memo or receipt for goods\nsold or services rendered, issued by a seller shall have the following minimum\nparticulars, namely:—\n(a) The name and address of the seller;\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 449(E), dated July 15, 2020 and published in the Gazette of India, Extra. , Part II, Section 3(i),\ndatd 15th July, 2020, pp. 17-18, No. 345",
+      "error": null,
+      "warnings": []
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "ocr:windows_ocr",
+      "is_scanned": true,
+      "image_count": 1,
+      "text_char_count": 1164,
+      "margin_notes": [],
+      "cleaned_text": "(b) a consecutive serial number not exceeding sixteen characters, in one\nor multiple series, containing letters or numerals or special characters\n(hyphen or dash, and slash, symbolised as \"-\" and \"P' respectively) and\nany combination thereof, unique for a financial year;\n(c) the date of its issue;\n(d) the name of the consumer;\n(e) the description of goods or services;\n(j) the quantity, in case of goods;\n(g) the shipping address, where applicable;\n(h) the taxable value and discounts;\n(i) the rate of tax;\n(j) the signature of the seller or his authorised representative;\nthe customer care number or e-mail ID, where available, and\n(l) the total price in single figure, along with the breakup price showing all\nthe compulsory and voluntary charges, such as delivery charges, postage\nand handling charges, conveyance charges and the applicable tax:\nProvided that where such invoice, bill, cash memo or receipt is issued\nby a seller in electronic form, the signature of the seller is not required.\n(2) The serial number on the invoice, bill, cash memo or receipt to be issued by\na seller shall not be altered, removed, replaced, or erased under any circumstances.",
+      "error": null,
+      "warnings": []
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0000",
+      "chunk_index": 0,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "table_of_contents",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": null,
+      "rule_title": null,
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [],
+      "detected_headings": [],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020"
+      ],
+      "source_pages": [
+        1
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "page_spans": [
+        {
+          "page_number": 1,
+          "line_count": 14,
+          "first_line": "The"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 388,
+      "text": "The\nConsurner Protection\n(General)\nRules, 2020\nCONTENTS\nRules\nPages\nI. Short title and commencement ............ . 74\n2. Definitions 74\n3. Public utility services to be establishments .................... 74\n4. Certain activities to be exempt from unfair trade practice 74\n.............\n5. Manner of issuing invoice or bill or cash memo or receipt for goods\nsold or services rendered . 74",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020]\nThe\nConsurner Protection\n(General)\nRules, 2020\nCONTENTS\nRules\nPages\nI. Short title and commencement ............ . 74\n2. Definitions 74\n3. Public utility services to be establishments .................... 74\n4. Certain activities to be exempt from unfair trade practice 74\n.............\n5. Manner of issuing invoice or bill or cash memo or receipt for goods\nsold or services rendered . 74"
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0001",
+      "chunk_index": 1,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "front_matter",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": null,
+      "rule_title": null,
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [],
+      "detected_headings": [],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 6,
+          "first_line": "The"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 277,
+      "text": "The\nConsumer Protection General)\nRules, 20201\nIn exercise of the powers conferred by sub-section ( I ) and clauses (b) and (c) of\nsub-section (2) of Section 101 of the Consumer Protection Act, 2019 (35 of 2019),\nthe Central Government hereby makes the following rules, namely:—",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020]\nThe\nConsumer Protection General)\nRules, 20201\nIn exercise of the powers conferred by sub-section ( I ) and clauses (b) and (c) of\nsub-section (2) of Section 101 of the Consumer Protection Act, 2019 (35 of 2019),\nthe Central Government hereby makes the following rules, namely:—"
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0002",
+      "chunk_index": 2,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "1",
+      "rule_title": "Short title and commencement",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 1(1)",
+        "Rule 1(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "1",
+          "title": "Short title and commencement",
+          "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "1. Short title and commencement.—(l) These rules may be called the",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) They shall come into force on the 20th day of July, 2020.",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020",
+        "RULE: Rule 1 - Short title and commencement",
+        "SUB-RULE: (1), (2)"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 3,
+          "first_line": "1. Short title and commencement.—(l) These rules may be called the"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 171,
+      "text": "1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (General) Rules, 2020.\n(2) They shall come into force on the 20th day of July, 2020.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020 | RULE: Rule 1 - Short title and commencement | SUB-RULE: (1), (2)]\n1. Short title and commencement.—(l) These rules may be called the\nConsumer Protection (General) Rules, 2020.\n(2) They shall come into force on the 20th day of July, 2020."
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0003",
+      "chunk_index": 3,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "2",
+      "rule_title": "Definitions",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)"
+      ],
+      "paragraph_references": [
+        "Rule 2(1)",
+        "Rule 2(1)(a)",
+        "Rule 2(1)(b)",
+        "Rule 2(1)(i)",
+        "Rule 2(1)(ii)",
+        "Rule 2(1)(iii)",
+        "Rule 2(1)(iv)",
+        "Rule 2(1)(v)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "2",
+          "title": "Definitions",
+          "raw_text": "2. Definitions.—ln these rules, unless the context otherwise requires,—",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "2. Definitions.—ln these rules, unless the context otherwise requires,—",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020",
+        "RULE: Rule 2 - Definitions",
+        "SUB-RULE: (1)"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 11,
+          "first_line": "2. Definitions.—ln these rules, unless the context otherwise requires,—"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 529,
+      "text": "2. Definitions.—ln these rules, unless the context otherwise requires,—\n(a) 'Act\" means the Consumer Protection Act, 2019 ( 35 of 2019);\n(b) 'public utility service' means any—\n(i) transport service for the carriage of passengers or goods by air,\nroad or water; or\n(ii) postal, telegraph, telephone or broadband service; or\n(iii) supply of power, light or water or fuel or natural gas to the public\nby any establishment; or\n(iv) insurance service; and\n(v) service in, or in connection with, the working of any major port\nor dock;",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020 | RULE: Rule 2 - Definitions | SUB-RULE: (1)]\n2. Definitions.—ln these rules, unless the context otherwise requires,—\n(a) 'Act\" means the Consumer Protection Act, 2019 ( 35 of 2019);\n(b) 'public utility service' means any—\n(i) transport service for the carriage of passengers or goods by air,\nroad or water; or\n(ii) postal, telegraph, telephone or broadband service; or\n(iii) supply of power, light or water or fuel or natural gas to the public\nby any establishment; or\n(iv) insurance service; and\n(v) service in, or in connection with, the working of any major port\nor dock;"
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0004",
+      "chunk_index": 4,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "3",
+      "rule_title": "Public utility services to be establishments",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [
+        "Rule 3"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "3",
+          "title": "Public utility services to be establishments",
+          "raw_text": "3. Public utility services to be establishments.—Public utility services shall",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020",
+        "RULE: Rule 3 - Public utility services to be establishments"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 2,
+          "first_line": "3. Public utility services to be establishments.—Public utility services shall"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 141,
+      "text": "3. Public utility services to be establishments.—Public utility services shall\nbe establishments for the purpose of Clause (19) of Section 2.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020 | RULE: Rule 3 - Public utility services to be establishments]\n3. Public utility services to be establishments.—Public utility services shall\nbe establishments for the purpose of Clause (19) of Section 2."
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0005",
+      "chunk_index": 5,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "4",
+      "rule_title": "Certain activities to be exempt from unfair trade practice",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [],
+      "paragraph_references": [
+        "Rule 4",
+        "Rule 4(a)",
+        "Rule 4(b)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "4",
+          "title": "Certain activities to be exempt from unfair trade practice",
+          "raw_text": "4. Certain activities to be exempt from unfair trade practice.—Permitting",
+          "page_number": 2
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020",
+        "RULE: Rule 4 - Certain activities to be exempt from unfair trade practice"
+      ],
+      "source_pages": [
+        2
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 9,
+          "first_line": "4. Certain activities to be exempt from unfair trade practice.—Permitting"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 558,
+      "text": "4. Certain activities to be exempt from unfair trade practice.—Permitting\nof the following activities carried out for promoting directly or indirectly the sale,\nuse or supply of any product or any business interest shall be exempt from the\npurview of unfair trade practices, namely—\n(a) lotteries allowed under the Lotteries (Regulation) Act, 1998 (17 of\n1998); and\n(b) games of chance or skill not prohibited under the Public Gambling Act,\n1867 (3 of 1867), which are not gambling and wherein success depends\non a substantial degree of skill and not chance.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020 | RULE: Rule 4 - Certain activities to be exempt from unfair trade practice]\n4. Certain activities to be exempt from unfair trade practice.—Permitting\nof the following activities carried out for promoting directly or indirectly the sale,\nuse or supply of any product or any business interest shall be exempt from the\npurview of unfair trade practices, namely—\n(a) lotteries allowed under the Lotteries (Regulation) Act, 1998 (17 of\n1998); and\n(b) games of chance or skill not prohibited under the Public Gambling Act,\n1867 (3 of 1867), which are not gambling and wherein success depends\non a substantial degree of skill and not chance."
+    },
+    {
+      "chunk_id": "consumer_protection_general_rules_2020_chunk_0006",
+      "chunk_index": 6,
+      "document_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "unit_type": "rule",
+      "chapter": null,
+      "chapter_title": null,
+      "section_number": null,
+      "section_title": null,
+      "rule_number": "5",
+      "rule_title": "Manner of issuing invoice or bill or cash memo or receipt for goods sold or services rendered",
+      "sub_section_numbers": [],
+      "sub_rule_numbers": [
+        "(1)",
+        "(2)"
+      ],
+      "paragraph_references": [
+        "Rule 5(1)",
+        "Rule 5(1)(a)",
+        "Rule 5(1)(b)",
+        "Rule 5(1)(c)",
+        "Rule 5(1)(d)",
+        "Rule 5(1)(e)",
+        "Rule 5(1)(j)",
+        "Rule 5(1)(g)",
+        "Rule 5(1)(h)",
+        "Rule 5(1)(i)",
+        "Rule 5(1)(l)",
+        "Rule 5(1)(l) [Proviso]",
+        "Rule 5(2)"
+      ],
+      "detected_headings": [
+        {
+          "heading_type": "RULE",
+          "identifier": "5",
+          "title": "Manner of issuing invoice or bill or cash memo or receipt for goods sold or services rendered",
+          "raw_text": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(1)",
+          "title": null,
+          "raw_text": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold",
+          "page_number": 2
+        },
+        {
+          "heading_type": "SUB-RULE",
+          "identifier": "(2)",
+          "title": null,
+          "raw_text": "(2) The serial number on the invoice, bill, cash memo or receipt to be issued by",
+          "page_number": 3
+        }
+      ],
+      "heading_hierarchy": [
+        "DOCUMENT: Consumer Protection (General) Rules, 2020",
+        "RULE: Rule 5 - Manner of issuing invoice or bill or cash memo or receipt for goods sold or services rendered",
+        "SUB-RULE: (1), (2)"
+      ],
+      "source_pages": [
+        2,
+        3
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "page_spans": [
+        {
+          "page_number": 2,
+          "line_count": 8,
+          "first_line": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold"
+        },
+        {
+          "page_number": 3,
+          "line_count": 20,
+          "first_line": "(b) a consecutive serial number not exceeding sixteen characters, in one"
+        }
+      ],
+      "extraction_method": "ocr",
+      "language": "en",
+      "char_count": 1708,
+      "text": "5. Manner of issuing invoice or bill or cash memo or receipt for goods sold\nor services rendered.—(l) Every invoice, bill, cash memo or receipt for goods\nsold or services rendered, issued by a seller shall have the following minimum\nparticulars, namely:—\n(a) The name and address of the seller;\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 449(E), dated July 15, 2020 and published in the Gazette of India, Extra. , Part II, Section 3(i),\ndatd 15th July, 2020, pp. 17-18, No. 345\n(b) a consecutive serial number not exceeding sixteen characters, in one\nor multiple series, containing letters or numerals or special characters\n(hyphen or dash, and slash, symbolised as \"-\" and \"P' respectively) and\nany combination thereof, unique for a financial year;\n(c) the date of its issue;\n(d) the name of the consumer;\n(e) the description of goods or services;\n(j) the quantity, in case of goods;\n(g) the shipping address, where applicable;\n(h) the taxable value and discounts;\n(i) the rate of tax;\n(j) the signature of the seller or his authorised representative;\nthe customer care number or e-mail ID, where available, and\n(l) the total price in single figure, along with the breakup price showing all\nthe compulsory and voluntary charges, such as delivery charges, postage\nand handling charges, conveyance charges and the applicable tax:\nProvided that where such invoice, bill, cash memo or receipt is issued\nby a seller in electronic form, the signature of the seller is not required.\n(2) The serial number on the invoice, bill, cash memo or receipt to be issued by\na seller shall not be altered, removed, replaced, or erased under any circumstances.",
+      "contextualized_text": "[DOCUMENT: Consumer Protection (General) Rules, 2020 | RULE: Rule 5 - Manner of issuing invoice or bill or cash memo or receipt for goods sold or services rendered | SUB-RULE: (1), (2)]\n5. Manner of issuing invoice or bill or cash memo or receipt for goods sold\nor services rendered.—(l) Every invoice, bill, cash memo or receipt for goods\nsold or services rendered, issued by a seller shall have the following minimum\nparticulars, namely:—\n(a) The name and address of the seller;\n1. Ministry of Consumer Affairs, Food and Public Distribution (Deptt. of Consumer Affairs), Noti. No.\nG.S.R. 449(E), dated July 15, 2020 and published in the Gazette of India, Extra. , Part II, Section 3(i),\ndatd 15th July, 2020, pp. 17-18, No. 345\n(b) a consecutive serial number not exceeding sixteen characters, in one\nor multiple series, containing letters or numerals or special characters\n(hyphen or dash, and slash, symbolised as \"-\" and \"P' respectively) and\nany combination thereof, unique for a financial year;\n(c) the date of its issue;\n(d) the name of the consumer;\n(e) the description of goods or services;\n(j) the quantity, in case of goods;\n(g) the shipping address, where applicable;\n(h) the taxable value and discounts;\n(i) the rate of tax;\n(j) the signature of the seller or his authorised representative;\nthe customer care number or e-mail ID, where available, and\n(l) the total price in single figure, along with the breakup price showing all\nthe compulsory and voluntary charges, such as delivery charges, postage\nand handling charges, conveyance charges and the applicable tax:\nProvided that where such invoice, bill, cash memo or receipt is issued\nby a seller in electronic form, the signature of the seller is not required.\n(2) The serial number on the invoice, bill, cash memo or receipt to be issued by\na seller shall not be altered, removed, replaced, or erased under any circumstances."
+    }
+  ]
+}

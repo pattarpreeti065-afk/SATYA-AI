@@ -1,0 +1,154 @@
+{
+  "system": "SATYA Legal Document Ingestion System",
+  "pipeline_version": "1.0.0",
+  "generated_at": "2026-11-25T07:09:16.343140+00:00",
+  "config": {
+    "input_dir": "documents\\consumer_law",
+    "output_dir": "extracted_documents",
+    "max_chunk_chars": 1800,
+    "ocr_engine": "auto",
+    "min_text_chars": 40
+  },
+  "summary": {
+    "total_files_found": 4,
+    "processed_successfully": 4,
+    "partial_failures": 0,
+    "duplicates_detected": 0,
+    "failed_extractions": 0,
+    "total_pages": 53,
+    "scanned_pages_detected": 11,
+    "ocr_pages_processed": 11,
+    "total_chunks": 178
+  },
+  "documents": [
+    {
+      "doc_id": "consumer_protection_act_2019",
+      "file_name": "Consumer_Protection_Act_2019.pdf",
+      "file_path": "documents\\consumer_law\\Consumer_Protection_Act_2019.pdf",
+      "output_file": "extracted_documents\\consumer_protection_act_2019.json",
+      "document_title": "THE CONSUMER PROTECTION ACT, 2019",
+      "doc_type": "act",
+      "citation": "NO. 35 OF 2019",
+      "file_size_bytes": 1236998,
+      "file_hash": "0ae7f82ab5b77d50087cd4cd2dd2dbc12755c0bdb31371fdefd042b020d50756",
+      "content_hash": "e6cf4e687b8d338727899e94e9cdd0b5a49a8a3e412d69ccff4bfe32c2d65593",
+      "status": "success",
+      "extraction_method": "pymupdf_text",
+      "total_pages": 40,
+      "scanned_pages": [],
+      "ocr_pages": [],
+      "failed_pages": [],
+      "heading_counts": {
+        "ACT": 1,
+        "CHAPTER": 8,
+        "SECTION": 107,
+        "SUB-SECTION": 226
+      },
+      "total_chunks": 145,
+      "warnings": []
+    },
+    {
+      "doc_id": "consumer_protection_ecommerce_amendment_rules_2021",
+      "file_name": "Consumer_Protection_ECommerce_Amendment_Rules_2021.pdf",
+      "file_path": "documents\\consumer_law\\Consumer_Protection_ECommerce_Amendment_Rules_2021.pdf",
+      "output_file": "extracted_documents\\consumer_protection_ecommerce_amendment_rules_2021.json",
+      "document_title": "Consumer Protection (E-Commerce) (Amendment) Rules, 2021",
+      "doc_type": "amendment_rules",
+      "citation": "G.S.R. 328 (E)",
+      "file_size_bytes": 1564930,
+      "file_hash": "a7db1f7a8c900e0bc9c7fcb1f2921130ff85e6fac517fb5222efcf76cf559654",
+      "content_hash": "e386e21f8e56ef49453827cdda9608c3d44ec8254aed519e7a0fc3eecf89159e",
+      "status": "success",
+      "extraction_method": "pymupdf_text",
+      "total_pages": 2,
+      "scanned_pages": [],
+      "ocr_pages": [],
+      "failed_pages": [],
+      "heading_counts": {
+        "RULES": 1,
+        "RULE": 4,
+        "SUB-RULE": 4
+      },
+      "total_chunks": 6,
+      "warnings": []
+    },
+    {
+      "doc_id": "consumer_protection_ecommerce_rules_2020",
+      "file_name": "Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "file_path": "documents\\consumer_law\\Consumer_Protection_ECommerce_Rules_2020.pdf",
+      "output_file": "extracted_documents\\consumer_protection_ecommerce_rules_2020.json",
+      "document_title": "Consumer Protection (E-Commerce) Rules, 2020",
+      "doc_type": "rules",
+      "citation": "G.S.R. 462(E)",
+      "file_size_bytes": 2758391,
+      "file_hash": "54fed9f2b119f487c66af671f338e7962f9cf22b55e1e8ba3456219e3394872a",
+      "content_hash": "3a973312ff33bbdcd72102d837c89fc6f534df73900b835b7979990d2d56b26e",
+      "status": "success",
+      "extraction_method": "ocr",
+      "total_pages": 8,
+      "scanned_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "ocr_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "failed_pages": [],
+      "heading_counts": {
+        "RULES": 1,
+        "RULE": 8,
+        "SUB-RULE": 31
+      },
+      "total_chunks": 20,
+      "warnings": []
+    },
+    {
+      "doc_id": "consumer_protection_general_rules_2020",
+      "file_name": "Consumer_Protection_General_Rules_2020.pdf",
+      "file_path": "documents\\consumer_law\\Consumer_Protection_General_Rules_2020.pdf",
+      "output_file": "extracted_documents\\consumer_protection_general_rules_2020.json",
+      "document_title": "Consumer Protection (General) Rules, 2020",
+      "doc_type": "rules",
+      "citation": "G.S.R. 449(E)",
+      "file_size_bytes": 627648,
+      "file_hash": "6d182b13c279666a9795193dbe5af4b700805a742c561a195eb162ca84b7124d",
+      "content_hash": "f9ac7c70711a158ae510cc9290c25fa6fcca008ea00f90a55a4d3681d7928923",
+      "status": "success",
+      "extraction_method": "ocr",
+      "total_pages": 3,
+      "scanned_pages": [
+        1,
+        2,
+        3
+      ],
+      "ocr_pages": [
+        1,
+        2,
+        3
+      ],
+      "failed_pages": [],
+      "heading_counts": {
+        "RULES": 1,
+        "RULE": 5,
+        "SUB-RULE": 5
+      },
+      "total_chunks": 7,
+      "warnings": []
+    }
+  ],
+  "duplicates": [],
+  "failures": []
+}

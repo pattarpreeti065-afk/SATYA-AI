@@ -6,3 +6,7 @@ __pycache__/
 !.env.example
 *.pyc
 generated_pdfs/
+
+.env
+.venv/
+__pycache__/
